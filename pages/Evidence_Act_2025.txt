@@ -1,0 +1,70 @@
+[[Category:Legislation]] [[Category: Judicial Law]]
+=Evidence Act 2025=
+''An Act relating to the law of evidence, and to make amendments necessary for speeding up the Criminal Pretrial Process.'' 
+
+== Preamble ==
+
+'''Whereas''' Evidentiary standards should be provided to ensure the integrity of Justice;  
+
+'''Whereas''' The safeguarding of perishable evidence needs to be provided for by law;
+
+'''The Senate of SimDemocracy Proclaims:'''
+
+== Section 1: Amendments ==
+
+§1. The [[Courtroom Procedures Act 2025]] is amended by –  
+:§1.1. Replacing Article 7 §3.7. with the following:  
+     “§3.7. Either side may then admit evidence for use in the Trial, and make any necessary motions. They may do so earlier if the Judge so allows.”  
+:§1.2. Replacing Article 12 §1.1. with the following:  
+     “§1.1. If the witness is the defendant party, they may be called as a witness, but shall have the right to refuse to say anything which may incriminate themselves.”  
+:§1.3. Inserting a new Article 12 §6. which shall read:  
+     “§6. Expert Witnesses may also be admitted in accordance with the Evidence Act, and the objections under §4.4, §4.8 and §4.9 shall not apply to such witnesses.”
+
+== Article 1: Use of experts ==
+
+§1. When the Court finds it likely that assistance would be derived from an opinion on a point of specialized knowledge, an Expert Witness may be called to testify on the point.  
+
+§2. An expert is a person with specialised knowledge based on training, study or experience.  
+
+§3. The Court may refuse to allow an Expert Witness to continue to testify if the Court believes that the Expert does not have sufficient specialized knowledge to provide assistance on the point.
+
+== Article 2: Screenshots, Forwards and Logs ==
+
+§1. This Article only applies to messages in public-facing channels of the SimDemocracy Discord Server.  
+
+§2. When a Screenshot is produced as evidence that a message or messages were sent, the screenshot must be situated by way of links to the position of the messages in a channel.  
+
+§3. When a forward of a message situates it to a specific position within a chat channel, the message is presumed to have existed in that chat channel at that specific position.  
+
+§4. When a forward of a message situates it to a specific chat channel, the message is presumed to have existed in that chat channel.  
+
+§5. When a message is shown in the Message Logs, the message is presumed to have existed, at the location stated in the logs.
+
+== Article 3: Preservation of Surrounding Context ==
+
+§1. When a party intends to use a message or screenshot of a message as evidence, so much of the surrounding context must be saved and admitted along with the message or screenshot of a message as may be necessary to ascertain the purpose or lack thereof of the message.  
+:§1.1. Such evidence must be admitted under penalty of perjury that the contents of messages have not been edited (except to remove parts which it is infeasible to save).
+
+<ref name="hotfix">[https://docs.google.com/document/u/0/d/16V_vIjwKsrBUN-fWZatXEnjb2M6lltk73PAA3Piv6XU/mobilebasic Evidence Act Hotfix] passed and signed on 25 May 2025.</ref>
+§2. Alternatively, an affidavit describing the context of the message may be admitted under penalty of perjury.
+
+== Article 4: Preservation of Perishable Evidence ==
+
+§1. Perishable Evidence is defined as any evidence which may not be usable after a certain amount of time.
+
+§2. When a party wishes to admit perishable evidence after it has perished, they may admit said evidence through a witness, who may testify or provide evidence in an affidavit sworn under penalty of perjury<ref name="hotfix" /> as to the state of the evidence at a previous period of time.
+
+§3. If such a witness cannot be found, messages or statements from a person who has knowledge as to the state of the evidence at a previous period of time may be admitted to prove the state of evidence at a particular period of time.
+
+§4. Any person may request a Judge to verify the existence, content and state of certain evidence at any point in time and a verification by a Judge of said evidence is conclusive in determining the existence, content or state of perishable evidence at a point in time.
+
+== Article 5: Estoppel ==
+
+§1. When one person (A) has by act or omission caused another (B) to believe a thing to be true and to act on such belief, which the other person (B) would not have acted on but for the act or omission, the person (A) is not allowed to deny the truth of that thing in any suit or proceeding. 
+
+''Illustration'' 
+
+''Blanche told Nolan that his channel fee was due in 5 months, when in fact it was due in 3 months. Relying on Blanche&#39;s statement, Nolan did not pay the fee within 3 months, and his channel was deleted. Blanche is estopped from asserting the actual 3-month deadline because Nolan relied on her representation to his detriment.''
+
+== Amendments ==
+<references />
