@@ -1,0 +1,97 @@
+[[Category:Executive]] [[Category:Amendment]] [[Category:Legislation]] [[Category:Judicial Law]]
+Passed by the Senate on 19 April 2025, and ratified by public referendum on 22 April 2025.
+
+== Preamble: ==
+An act to protect citizens, uphold institutional integrity, and establish a clear framework to combat terrorist-connected activities.
+
+== Part 1: Definitions and Offences ==
+=== Article 1: Terrorism Against The Individual ===
+
+§1. A person or group of persons commits terrorism against the individual, here within referred to simply as terrorism, if they knowingly attempt to or cause real-life harm to an individual, group of individuals, SimDemocracy population at large, or members of any national institutions of SimDemocracy, or cause exceptional harm to public safety through of these crimes:
+
+:§1.1. Election Fraud as defined in the [[Criminal_Code_2020#Article_37._Election_Fraud|Criminal Code 2020, Part 9: Electoral Crimes]]
+
+:§1.2. Voter Suppression as defined in the [[Criminal_Code_2020#Article_39._Voter_Suppression|Criminal Code 2020, Part 9:  Electoral Crimes]]
+
+:§1.3. Treason as defined in the [[Criminal_Code_2020#Article_44._Treason|Criminal Code 2020, Part 10: Crimes Against the State]]
+
+:§1.4. Brigading and Raiding as defined in the [[Criminal_Code_2020#Article_49._Brigading_and_Raiding|Criminal Code 2020, Part 10: Crimes Against the State]]
+
+:§1.5. Spamming and Brigading as defined in the [[Criminal_Code_2020#Article_50._Spamming|Criminal Code 2020, Part 10: Crimes Against the State]]
+
+:§1.6. Violation of Privacy as defined in the [[Criminal_Code_2020#Article_54._Violation_of_Privacy|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.7. Harassment as defined in the [[Criminal_Code_2020#Article_55._Harassment|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.8. Misgendering as defined in the [[Criminal_Code_2020#Article_55b_—_Misgendering|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.9. Sexual Harassment as defined in the [[Criminal_Code_2020#Article_56._Sexual_Harassment|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.10. Obscene Materials as defined in the [[Criminal_Code_2020#Article_58._Obscene_Materials|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.11. Making Criminal Threats as defined in the [[Criminal_Code_2020#Article_59._Making_Criminal_Threats|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.12. Impersonation as defined in the [[Criminal_Code_2020#Article_60._Impersonation|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.13. Blackmail as defined in the [[Criminal_Code_2020#Article_61._Blackmail|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.14. Abuse of Vulnerability as defined in the [[Criminal_Code_2020#Article_62._Abuse_of_Vulnerability|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.15. Doxxing and Threats to Doxx as defined in the [[Criminal_Code_2020#Article_54a._Doxxing|Criminal Code 2020, Part 11: Crimes Against the Person]]
+
+:§1.16. Violation of Discord’s Terms of Service as defined in the [[Criminal_Code_2020#Article_63_—_Terms_of_Service_Violation|Criminal Code, Part 12, Terms of Service Violation]]
+
+=== Article 2: Terrorist Organizations ===
+
+§1. A terrorist organization is defined as a group of individuals organized to commit terrorism as defined in Article 1: Terrorism Against the Individual or any other legally recognized form of terrorism in SimDemocracy.
+
+§2. Membership in a terrorist organization includes, but is not limited to, being a member of a terrorist server, or being frequently associated with it.
+
+§3. Supporters of a terrorist organization includes, but is not limited to being an operative (someone who executes organization policy, agendas or orders), knowingly committing crimes in support of the group, intentional intelligence gathering in support of the group, or voter fraud or harassment on behalf of the organization.
+== Part 2: Criminal Offences and Penalties ==
+=== Article 3: Terrorist Conspiracy ===
+
+§1. Add to the [[Criminal_Code_2020#Part_10_Crimes_Against_The_State|Criminal Code 2020, Part 10]], and make the necessary changes to accommodate its addition:
+
+=== Article 4: Racketeering ===
+
+§1. Add to the [[Criminal_Code_2020#Part_10_Crimes_Against_The_State|Criminal Code 2020, Part 10]], and make the necessary changes to accommodate its addition:
+
+== Part 3: Executive and Oversight Provisions ==
+=== Article 5: Executive Powers ===
+
+§1. The President may, in a state of caution or emergency, ban accounts that have been citizens for under thirty (30) days for terrorist conspiracy, or any other crime described as terrorism under other acts for the duration of the state of the emergency, but shall only do so if it is an exceptional circumstance affecting public safety.
+
+:§1.1. A summarily banned account may be tried in absentia. No burden may be placed on any attorney to contact such summarily banned accounts.
+
+:§1.2. If a group of accounts are summarily banned for being part of the same conspiracy, they must be tried together.
+=== Article 6: Constitutional Amendment ===
+
+§1. The [[Constitution#Article_15:_Freedom_of_expression|Constitution, Part 6: Bill of Rights, Article 15: Freedom of Expression]], §1 shall be amended to read:
+
+     §1. Every person shall have the right to freedom of expression, which shall include the right to freedom of speech, freedom of the press, freedom of peaceful assembly, freedom of association, freedom of faith and conscience, freedom of peacefully exercising religious beliefs, and the right to petition for redress of grievances, but the Legislature may impose such restrictions on the freedom of association as may be necessary or expedient in the interest of the security of SimDemocracy and its citizens.
+
+§2. If the referendum fails, Article 5, §1. shall be changed to
+
+     §1. A person engages in terrorist conspiracy if they materially or negligently support a group of individuals in their efforts to dox, threaten to dox, or cause real life harm to individuals.
+
+=== Article 7: Independent Oversight and Review ===
+
+§1. An independent oversight authority or the appropriate government oversight authority shall review all terrorist conspiracy bans and organization designations.
+
+§2. If they find insufficient evidence, they may issue a report to the courts and the public, subject to restrictions with regard to national or personal security.
+
+§3. False or malicious designation without evidence is considered an abuse of power.
+=== Article 8: Good-Faith Reporters ===
+
+§1. Good faith actors who report terrorism and violate this Act may not be charged or tried for terrorist conspiracy or racketeering if they acted without malicious intent, cooperated fully with authorities, and promptly disclosed their actions. This exemption is subject to independent oversight review.
+
+:§1.1. The certification of the Attorney-General is conclusive in determining that a person cooperated fully with authorities, and promptly disclosed their actions.
+=== Article 9: Implementation ===
+
+§1. This Act shall come into effect upon passage.
+=== Article 10: Severability ===
+
+§1. If any part of this Act is found to be inconsistent with the Constitution by a competent court, only the inconsistent parts of the Act shall be void.
+
+:§1.1. The above applies to any section of this Act amended into other Acts.
