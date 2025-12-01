@@ -1,0 +1,219 @@
+[[Category:Legislation]] [[Category:Legislative]]
+''Repealed by the [[Rules of the Senate]], but returned to effect on 21 September 2025 by the [https://docs.google.com/document/d/11rSQPtreKZZmcKehSmlwCkB1CPLY5QXbA5jtPqNtOxc/edit?tab=t.0 Wow These Rules Suck Act].''
+==Preamble: ==
+
+Whereas the Senate serves as the legislative body of SimDemocracy, it is essential to establish clear, structured, and efficient procedural rules to ensure fair, organized, and productive legislative debate. This Act formalizes Senate procedures by incorporating structured rules, ensuring effective debate, transparent legislative processing, and procedural fairness.
+
+== Article 1: Definitions and Scope ==
+
+§1. The Senate shall operate in accordance with these Rules of Procedure.
+
+§2. The Speaker of the Senate, hereinafter referred to as "the Speaker," shall be responsible for enforcing these procedures.
+
+§3. These rules shall apply to all legislative sessions, debates, motions, and voting procedures within the Senate.
+
+§4. These procedures shall govern the conduct of Senate proceedings, including but not limited to legislative debate, voting, amendment processes, disciplinary measures, and motions.
+
+§5. In the event of ambiguity, the Speaker shall have the authority to interpret these rules, subject to appeal by the Senate.
+
+== Article 2: Motion Types ==
+
+§1. There shall be three types of motions, privileged, non-privileged, and internal.
+
+§2. A privileged motion must have a vote or begin procedures as outlined in this act or any other piece of legislation within 24 hours of the motion being filed. Privileged motions are the following votes,
+:§2.1. Cabinet Appointments,
+:§2.2. Impeachments including any motion to remove the speaker,
+:§2.3. Motions passed with a successful discharge petition,
+:§2.4. Any votes required by other legislation,
+:§2.5. Votes on Interim Funding Resolutions under the [[Rolling Budget Act of 2025]]
+:§2.6. Motions to archive a channel at the request of the Chief Archivist
+
+§3. An internal motion shall be a motion only used while in discussion unless otherwise mentioned by law. Internal motions shall last 12 hours, or until enough senators have voted in favor or against the motion for it to pass. All internal motions must be put up as quickly as possible by the presiding officer. The following are some internal motions:
+
+:§3.1. Motion to suspend rules of debate shall require a two-thirds majority. It shall suspend any rule of debate stated in the motion surrounding debate in any piece of legislation that is not the constitution and the speaker's decision.
+
+:§3.2. The Motion to Override the Speaker's Decision shall require a simple majority vote, this motion shall override any decision the speaker unilaterally made that the motion states. This motion may be used outside of discussion if necessary.
+
+:§3.3. The Motion to Close Debate shall end debate on a bill and shall require a simple majority vote. The motion shall end discussion on a bill and move on to another bill. If there are no more bills for consideration, the discussion on bills is to be considered over.
+
+:§3.4. The Motion to Table the Bill shall require a simple majority vote. It shall end discussion on said bill.
+
+:<ref name="hearings_amendment">[https://docs.google.com/document/d/1hYcf2U9hqf9dmo0WWTLzPPXCfCdJKK2D5NACNSvQ-4Y/ Senate Hearings Amendment] signed on 27 July 2025.</ref>§3.5. The Motion to End a Hearing shall end a hearing and shall require a simple majority vote. The motion shall end discussion on a hearing.
+
+:<ref name="hearings_amendment" />§3.6. The Motion to Hold a Hearing shall require a simple majority vote. It shall mandate a hearing on a specific topic.
+
+:§3.7. The Motion to Debate shall be a motion which shall have no vote which serves as a formal request to the Speaker to have a debate on a bill or motion.
+
+:<ref name="hearings_amendment" /><ref name="recognize">[https://docs.google.com/document/d/1IUb00anA3n1dVsb35UOOEGGKQ6QS8OAl6TeDuRb1sfY/edit?tab=t.0 Recognizing Recognitions Amendment] passed by the Senate and signed by the President on 26 July 20250.</ref>§3.8. The Motion to Recognize an Individual shall be a motion which shall have no vote which serves as a formal request to the Speaker to allow a specific individual to be allowed to give comment and debate on a bill or hearing.
+
+:§3.9. The Motion to Divide the Question shall divide a bill or motion into separate motions as specified by the author requiring a simple majority to pass. If no such specification is given by the author of the motion, the Speaker shall decide.
+
+:§3.10. The Motion to Divide the House shall bar abstaining on the motion in question and shall require a two-thirds majority vote to pass.
+
+:§3.11. The Speaker may accept at their discretion any motion or procedure from Robert's Rules of Order or other motions established by Senate precedent. They shall not be obligated to accept these motions.
+
+§4. A non-privileged motion shall be any motion not covered under internal and privileged motions.
+:§4.1. The speaker shall have full discretion in how these types of motions go up for a vote.
+
+== Article 3: Order of Debate ==
+
+§1. Debate shall be moderated by the Speaker.
+
+§2.  Debate shall proceed in the following order:
+
+:§2.1. The primary sponsor of a bill or motion shall introduce it,
+
+:§2.2. The Speaker shall open the floor for general debate on the bill subject to scheduling,
+
+:§2.3. Senators may submit amendments or secondary motions.
+
+:§2.4. Once debate is concluded after 24 hours, or, if the speaker has declared the bill to require more debate, after a Motion to Close Debate, the Bill shall proceed to a vote.
+
+::§2.4.1. A Motion to Close Debate may be filed even if the speaker has not declared the bill to require more debate.
+
+§3. A Senator may raise a Point of Order if a rule has been violated.
+
+:§3.1. The Speaker shall immediately rule on the Point of Order.
+
+§4. A Senator may raise a Point of Personal Privilege if they experience discomfort due to harassment, or technical issues.
+
+:§4.1. The Speaker shall take necessary action to resolve the issue.
+
+<ref name="uca">[https://docs.google.com/document/d/1MVyubvdvNF-YWVmVxY43t4DpPGAqAemDOwT37eQB5us/edit?tab=t.0 UCA Rule Amendment] passed and signed on 22 June 2025.</ref>
+§5. The Speaker may circumvent any debate required for a bill with a unanimous consent agreement.
+
+<ref name="uca" />
+§6. The Speaker may propose a unanimous consent agreement to skip all debate requirements on a bill; any senator shall have ninety minutes to object to the agreement. If no senator objects to the agreement within the allotted time, then it shall be considered agreed to. 
+
+:§6.1. If a senator rejects a unanimous consent agreement, the speaker shall have the option to call a vote to skip all debate requirements with a simple majority vote in favor as an internal motion instead.
+
+== Article 4: Hearings of the Senate ==
+
+<ref name="hearings_amendment" />§1. Hearings of the Senate, which may also be called hearings in this bill, is an inquiry/discussion in the senate over a particular topic.
+
+§2. There are two (2) types of hearings, namely:
+
+:§2.1. Public Hearings, which are able to be seen by the public, and
+
+:§2.2. Internal Hearings, which must involve classified information and are only able to be seen by Senators and Individuals recognized in the hearing.
+
+§3. Discussion in Hearings shall be moderated by the Speaker, and proceed in the following order:
+
+:§3.1. The primary sponsor of a bill or motion shall introduce it,
+
+:§3.2. The Speaker shall open the floor for general debate on the bill subject to scheduling,
+
+:§3.3. Senators may submit secondary motions.
+
+:§3.4. The Hearing may last for as long as there is no new Senate that is elected, but the Senate may submit and pass a Motion to End Hearing to immediately end the hearing.
+
+== Article 5: Discharge Petitions ==
+
+§1. A majority of senators at any time may sign a petition to make a non-privileged motion a privileged motion.
+
+== Article 6: Amendment Procedure ==
+
+§1. An amendment is a formal change, addition, or removal of text from a bill or motion that is under consideration by the Senate.
+
+§2. Amendments may be proposed by any Senator during the appropriate stage of legislative debate.
+
+§3. Amendments fall into two categories: Friendly Amendments and Unfriendly Amendments.
+
+§4. A Friendly Amendment is an amendment proposed to a bill or motion that is accepted by the original sponsor of the legislation.
+
+:§4.1. Any Senator may propose a Friendly Amendment by making a Motion to Introduce a Friendly Amendment on the Senate floor. If the original sponsor of the bill accepts the amendment, the Speaker shall recognize it as a Friendly Amendment, and it shall be automatically incorporated into the bill or motion without a vote.
+
+:§4.2. The Speaker shall recognize and announce to Senators all Friendly Amendments to ensure transparency in legislative changes.
+
+§5. An Unfriendly Amendment is an amendment proposed to a bill or motion that is not accepted by the original sponsor.
+
+:§5.1. Any Senator may propose an Unfriendly Amendment by making a Motion to Introduce an Unfriendly Amendment on the Senate floor.
+
+:§5.2. Once a Motion to Introduce an Unfriendly Amendment is made, the Speaker shall open the floor for debate on the amendment before proceeding to a vote.
+
+:§5.3. A Motion to Introduce an Unfriendly Amendment shall require a second from at least one other Senator before debate begins.
+
+:§5.4. After debate, the amendment shall be put to a vote. If a simple majority votes in favor, the amendment is adopted and incorporated into the bill.
+
+:§5.5. If an Unfriendly Amendment passes, the bill or motion shall be modified accordingly, regardless of the original sponsor’s approval.
+
+== Article 7: Legislative Process ==
+
+§1. Any Senator may submit a bill for consideration.
+
+§2. The Speaker shall determine whether the bill proceeds to debate.
+
+§3. The bill submitter shall be responsible for defending the proposal.
+
+§4. Once a bill is introduced, it shall be subject to structured debate.
+
+§5. Amendments may be proposed and must be voted on separately.
+
+§6. Debate shall end after 24 hours, or, if the speaker has declared the bill to require more debate, after a Motion to Close Debate, the Bill shall proceed to a vote.
+:§6.1. A Motion to Close Debate may be filed even if the speaker has not declared the bill to require more debate.
+
+§7. A floor vote shall last 24 hours or until all senators have voted on the motion. Unless stated in the law or the constitution, all votes shall require a simple majority to pass.
+
+== Article 8: Severability ==
+
+<ref name = "severability"> [[Severability Amendment 2025]] </ref>§1. A bill containing both statutory law and a constitutional amendment shall be known as a “stratified bill”
+
+§2. When a Senator proposes a stratified bill they shall declare it as either “severable” or “inseverable”. An internal motion may be made to change the designation, subject to regular amendment motion procedures.
+
+§3. Both types of bills shall be voted on and handled normally, although any Senator may propose an internal motion to split a severable bill into two debates and votes — one for the statutory law and one for the constitutional amendment — subject to simple majority vote. At the conclusion of debate a Senator may motion to rejoin a “severed” bill, subject to a simple majority vote.
+
+§4. Statutory law included in a “severable” stratified bill shall take effect normally, regardless of the constitutional amendment’s progress, whereas in an “inseverable” stratified bill the statutory law shall take effect if and only if the constitutional amendment passes public referendum.
+
+== Article 9: Conduct and Discipline ==
+
+§1. All Senators shall conduct themselves with decorum and professionalism.
+
+§2. The Speaker shall have the power to censure someone for repeated misconduct in the Senate. At any time any member, including the censured member may object to this and call a motion to overturn the speaker's decision. The consequences of censure are the following:
+
+:§1.1. Removal from the Senate floor for up to 24 hours. The senator shall be able to vote on all motions, but not be allowed to speak on the Senate floor.
+
+§2. Before issuing a censure, the Speaker must provide a formal written warning to the member.
+
+:§2.1. A member must continue misconductful behavior after the formal warning to be censured.
+
+== Article 10: Conflicts of Interest ==
+<ref name="coin">[[Conflict of Interest Neutralization Act]]</ref>
+§1. A conflict of interest is defined as when a senator’s interests, including but not limited to personal or financial benefit, could improperly influence or appear to improperly influence their decisions or action in the Senate.
+
+§2. Before discussion of a question begins, a senator may voluntarily recuse themselves from the discussion and vote through declaring their conflict of interest in #senate-formal. 
+:§2.1. The start of a discussion shall be defined as when:
+::§2.1.1. The Speaker posts the discussion thread for bill, hearing or motion in #senate-floor or the Senate internal floors.
+::§2.1.2. For discussions outside of threads and in Senate text channels, the discussion begins when the Speaker formally declares the discussion period to begin.
+
+§3. A senator’s declaration of a conflict of interest on a question shall be noted by the Clerk on the Senate Records. 
+
+== Article 11: The Speaker of the Senate ==
+
+§1. The Speaker shall be elected by an absolute majority of the Senate.
+
+§2. If no candidate receives a majority, additional rounds of voting shall be held.
+
+§3. The Speaker shall preside over all legislative sessions.
+
+§4. The Speaker shall enforce the Rules of Procedure.
+
+§5. The Speaker shall have the authority to moderate debate.
+
+§6. Any Senator may motion to remove the Speaker.
+
+§7. This shall require an absolute majority vote.
+
+<ref name="hotfix_questionable">[[Senate Rules and Procedures Emergency Fixes Act]]</ref>§8. Excluding any specifications within legislation, the Speaker of the Senate may edit channels with the Senate category in any way they choose including but not limited to changing channel names, changing channel permissions, adding new channels, and changing channel order.
+
+== Article 12: Appendix ==
+
+§1. A simple majority shall be defined as more people voting aye than nay on a motion.
+
+§2. An absolute majority shall be defined as more than 50% of all sitting senators.
+
+== Article 13: Repeals ==
+
+§1. The “Senate Rules and Procedures Act” shall be repealed.
+
+== Amendments ==
+<references />
