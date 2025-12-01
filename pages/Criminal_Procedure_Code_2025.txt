@@ -1,0 +1,253 @@
+[[Category:Legislation]] [[Category:Executive]] [[Category:Judicial Law]] [[Category:Amendment]]
+=Criminal Procedure Code 2025=
+Passed by the Senate and signed on 11 July 2025.<ref name="approve" />
+
+Author: hmquestionable
+
+''An act to consolidate the law relating to criminal procedure, and to make necessary amendments to existing acts surrounding said procedure.''
+
+'''Preamble'''
+
+;Whereas: It is expedient to enact a consolidated law relating to Criminal Procedure;
+
+'''THE SENATE OF SIMDEMOCRACY PROCLAIMS:'''
+
+==Part 1: General Provisions==
+===Article 1: Title and Commencement===
+§1. This is the Criminal Procedure Code 2025.
+
+§2. This act comes into operation on a date which the President may specify, and in no case later than 2 weeks after the date of passage.
+
+§3. To avoid doubt, the commencement of this act is not affected by the passage of the Constitutional Amendment.
+
+===Article 2: Interpretation===
+§1. In this act –
+:§1.1. An “arrestable offence” refers to an offence in the First or Third Schedule of the Criminal Code;
+:§1.2. A “police officer” is any person designated by the SDBI Director as a police officer;
+:§1.3. An “entity” is any person, corporation or group.
+:§1.4. A “case” is the facts and circumstances of the thing being investigated in an investigation.
+:§1.5. A “charge” is the offence(s) referred to in Article 5, §4.
+:§1.6. An “arrest” means the muting of a member from all channels of the SimDem Discord Server except for judicial channels where the member has ongoing proceedings, and any other channel which the Director of the SDBI, the Attorney General or the President may specify, and the removal of post and comment permissions on Reddit.
+
+::<ref name="imprison" />§1.6.1. The SDBI shall maintain a “holding cell” channel for arrested and imprisoned persons to be able to speak, to which access shall be granted only to arrested persons, prisoners, DoJ staff, and any others with a statutory requirement to be granted access to it. Access to the channel may be revoked from arrested persons or prisoners with the consent of a Judge, if the individual is determined to present a clear danger or is egregiously disruptive.
+::<ref name="imprison" />§1.6.2. Access to the “holding cell” for up to 48 hours shall be granted to attorneys of arrested persons, or imprisoned persons who currently have a court case in which they are a party, upon a request, which must include a sworn declaration that they do represent a client presently arrested, and the username(s) and user ID(s) of clients they purport to represent. 
+::§1.6.3. Access may be granted to other persons with relevant business at the discretion of the Director of the SDBI
+
+===Article 3: Service of notices and documents===
+§1. Service of notices and documents may be conducted through direct-messaging a user on Discord, sending documents through a Discord channel designated by the Attorney-General, or direct-messaging or making a post onto the SimDemocracy Reddit which clearly specifies, in the title, that it is a notice issued under this Act, as well as the entity to which the notice is issued to.
+
+===Article 4: Absence of procedure===
+§1. Where this act and other acts have not defined any clear criminal procedure, any procedure which is pursuant to the interests of justice and not inconsistent with any law or the constitution may be adopted.
+
+==Part 2: Investigatory Procedure==
+===Article 5: Starting an investigation===
+§1. When a police officer receives a report on or observes the commission of a crime, the officer must as soon as practicable open an investigation into the matter and tie the investigation to an investigation number.
+:§1.1. All documents recorded under this investigation must be named with the said investigation number.
+:§1.2. The officer may decline to open an investigation for the following reasons –
+::(a) The matter is already under investigation;
+::(b) The matter is not of a serious nature; or,
+::(c) There are insufficient grounds for proceeding with the matter.
+
+§2. If the officer investigates the matter and finds that there is probable cause that an offence may have been committed, the officer may refer the matter to a State Attorney, or exercise any of the powers the officer has under Part 3, 4 or 5 of this Act.
+
+§3. If the officer declines to open an investigation, or finds that an offence is unlikely to have been committed, or carries out an enforcement action under Part 3 or 4 of this Act or any other Acts, or refers the case to a State Attorney, the officer shall tie the report to a case number, and issue a notice of procedural closure with that said case number and the reasoning for the closure, including any enforcement action carried out.
+
+§4. When a police officer finds that there is probable cause to believe that offence(s) have been committed by the entity or group of entities being investigated, they may exercise the powers under Article 6 and 7 of this Act.
+
+===Article 6: Obtaining Documents and other evidence===
+§1. When a police officer considers that any document or thing is necessary or desirable for the purposes of an investigation, they may issue a written order for an entity to–
+:(a) produce the document or thing;
+:(b) guarantee that it has no modifications or omissions; and/or
+:(c) provide the officer access to the location of that said document or thing.
+:§1.1. If the entity fails to comply with the order under §1 within a reasonable time, for reason other than that the document or thing does not exist, the officer may choose to obtain the order through a Judge, who shall grant such an order if –
+::(a) There is probable cause to believe that an offence has been committed by the entity or group of entities being investigated;
+::(b)The document or thing is necessary or desirable for the purposes of the investigation;
+::(c) The request is not overly broad or requires too much preparation time;
+::(d) The order would be illegal or unconstitutional to issue.
+::§1.1.1. When granting the order, the Judge must specify the reasonable time in which the order is to be complied with.
+:§1.2. Any entity which fails to comply with the order commits Contempt of Court.
+::§1.2.1. Any entity which fails to comply with the order, while acting in good faith and with reasonable care shall have a defense against the Contempt of Court.
+:§1.3. If the document or thing requested is encrypted, the officer shall have the power to obtain the decryption information and method of the document or thing from the person, as part of the order.
+
+§2. A police officer shall not be required to issue such a written order if they are able to obtain such documents or evidence without the order.
+
+§3. If it is not known who possesses the document or thing, the Judge may also issue a warrant to allow the police officer to search a place or group of places for that document or thing.
+
+===Article 7: Witnesses===
+§1. A police officer may issue a written order directing any person who appears to have sufficient knowledge in regard to the facts or circumstances of the investigation to answer questions relating to the case.
+
+§2. A person who appears in this manner is legally bound by an oath to state truly what they know about the case, and to answer any questions which the officer may ask.
+:§2.1. The person shall not be required to say anything which may expose them to a criminal charge or other penalty.
+:§2.2. The person shall not be required to answer any question which would violate the constitutional rights of the person.
+:§2.3. A person who refuses to answer any question (except for questions which fall under exemptions under this section), commits Obstruction of Justice.
+
+§3. If a person fails or refuses to respond to such an order, the officer may choose to obtain the order through a Judge, who shall grant such an order if –
+:(a) there is probable cause to believe that an offence has been committed by the entity or group of entities being investigated; and,
+:(b) the person appears to have sufficient knowledge in regard to the facts or circumstances of the case.
+:§3.1. A person who fails or refuses to respond within 36 hours after the issuance of such an order commits Contempt of Court (unless they fail or refuse to respond only to questions exempted by virtue of §2.1 and §2.2).
+
+§4. Before questioning a person, the police officer must provide a link to this Article, or the text of this Article to the person.
+
+§5. Before questioning a person who is the entity or part of the group of entities in Article 5: Starting an Investigation, §4. of this Act, the police officer must also inform the person of what crime(s) they may be charged with at the present stage of the investigation.
+
+==Part 3: Enforcement==
+===Article 8: Arrest===
+====Article 8a: Arrest without warrant====
+§1. Any officer may, without a warrant, arrest or ban any person who is part of an entity in Article 5, §4. of the investigation, and –
+:(a) The officer has probable cause to believe that the entity has committed an arrestable offence, or an attempt to commit such; and,
+:(b) There is a clear and present danger that the person will commit the offence or other offences again.
+
+§2. The Department of Justice must file a Criminal Complaint against the person arrested in this manner within 24 hours of an arrest under this section. If such is not done, the officer must obtain a warrant pursuant to Article 9 within 24 hours, or the person must be released.
+
+§3. Any police officer may summarily remove any alternate account of a main account which has been arrested or suppressed.
+
+====Article 8b: Arrest with warrant====
+§1. A police officer may request an arrest warrant from a Judge, which shall be granted if there is probable cause that a person has committed a crime.
+
+§2. When an arrest warrant is acted upon against a person, the notice of rights in the Appendix A must be communicated to them.
+
+§3. After an arrest, a criminal complaint must be filed against the person arrested without unreasonable delay, and in no case in excess of the time limit provided in the [[Courtroom Procedures Act 2025]].
+
+§4. If the police officer lacks sufficient permissions, anyone with the permissions has a duty to assist in the arrest of the person against whom the warrant is issued.
+
+===Article 9: Bail===
+<ref name="missing">[https://docs.google.com/document/d/1rMeJEjlFDCYMeLE4umBAcmM9GsDQdzfJeQkm0lA0s54/edit?tab=t.0#heading=h.o54924urdf0o The missing part of the CW Act Act] passed and signed 28 October 2025.</ref>
+§1. When a person is charged with an offence which is not an arrestable offence, they are entitled to bail, unless otherwise exempted.
+
+§2. Such a person may apply to a police officer to be released on bail, with a declaration of their total wealth (comprising their tau account, amounts in banks, percentage of ownership in businesses, amounts of tau in businesses owned or partially owned, investments, recent gifts of tau, or otherwise).
+
+§3. The police officer may then take from the person an amount of tau which is fixed with due regard to the circumstances of the case so as to be sufficient to ensure the good behavior of the person applying for bail, and release the person on bail.
+
+§4. If the police officer decides not to grant an application for bail, the person may apply to the inferior court to be released on bail, while attaching the declaration required in §2, a Judge of the Inferior Court shall be assigned randomly to hear the application, and the Attorney-General must be notified by the Court Registrar of the application, and be permitted to file a response. Such an application must be granted or denied within 48 hours.
+
+§5. The court, if satisfied that the person is unlikely to reoffend while released, may take from the person an amount of tau which is fixed with due regard to the circumstances of the case so as to be sufficient to ensure the good behavior of the person applying for bail, and release the person on bail.
+
+§6. If a person is released on bail, there shall be no need for the court to inquire into the likelihood to reoffend at the pre-trial stage of the proceedings.
+
+====Article 9a: Conditions====
+<ref name="missing" />
+§1. When a person is released on bail, these conditions are imposed –
+:(a) A finding of probable cause must not be entered against the person based on a matter that occurs after release on bail; and,
+:(b) The person must not interfere with any witness or obstruct the course of justice.
+:§1.1. The police officer or court, as the case may be, may impose other conditions during the release on bail, and may modify these conditions if there are new facts or circumstances that have come to light.
+
+§2. If a Judge of the Inferior Courts finds that the person has violated the bail conditions on the balance of probabilities, they must order that the bail which has been taken to be paid to the state, and for the person to be arrested.
+
+§3. If, at the conclusion of the trial proceedings, or if the filing of a Criminal Complaint does not take place within 72 hours from the initial arrest, the person has not breached any of the bail conditions, the bail amount must be refunded.
+
+===Article 10: Citizen’s Arrest for TOS Violations===
+§1. It is the duty of any citizen to take action against persons who commit egregious violations of the TOS of a particular platform, pursuant to Article 12.
+
+§2. In exercise of this duty, any person with sufficient permissions may arrest a person who commits egregious violations of the TOS while they are in chat. Upon doing so, they must immediately notify the SDBI, who may choose to re-arrest the person under this Act, or take any other actions.
+
+§3. Should a person be found to have not committed egregious violations of the TOS, they must be immediately released, unless arrested for other reasons by the SDBI.
+
+===Article 11: Deletion of Messages===
+§1. A police officer may delete messages or posts which the officer deems too inappropriate for a chat.
+:§1.1. For a message to be inappropriate, it must violate a law or be a factor in the violation of a law.
+
+§2. Prior to deleting messages, the officer must make a note of the content and location of the message. This note shall be admissible as proof that the message existed.
+
+==Part 4: Special powers against disruptive or emergency situations==
+===Article 12: Emergency Powers===
+§1. When there is an exceptional circumstance affecting public safety, any police officer may preliminarily arrest, mute or ban a person involved in the exceptional circumstance prior to trial.
+
+<ref name="jul2025" />§2. Exceptional circumstances shall include, but are not limited to violations of the Terms of Service of a particular platform en masse, mass spamming or pinging, and raiding.
+
+§3. After exercising a power under this section, the officer must start an investigation and comply with any transparency provisions relating to an investigation.
+
+===Article 13: Special provisions for trials under disruptive or emergency situations===
+
+§1. When a person is banned pursuant to Article 12, a Criminal Complaint against the person must be filed within 7 days of the preliminary action, unless extended by a Judge, notwithstanding any other time limit in other acts.
+
+§2. All time frames in other acts shall not need to be complied with (except for the time limit in §1).
+
+§3. If the Judge determines at pre-trial that there is likelihood to reoffend, the person is to remain banned during the trial.
+
+§4. To avoid doubt, there is no requirement for a person to be charged with the crimes mentioned in Article 12.
+
+==Part 5: Criminal Trial==
+===Article 14: Trials to comply with Courtroom Procedures Act===
+§1. All trials shall be held pursuant to the [[Courtroom Procedures Act 2025]], except for trials which fall under Article 15.
+
+===Article 15: Terms of Service Enforcement===
+
+<ref name="jul2025" />§1. When egregious violations of the Terms of Service of a particular platform are committed, any police officer or officer of the Department of Justice may request certification that a person violated the Reddit or Discord Terms of Service egregiously.
+
+:<ref name="laxative" />§1.1. The following are cases in which Terms of Service violations shall be deemed to be egregious : 
+::(a) Any violation that pertains to the exploitation of minors or contains explicit content that includes children. 
+::(b) Any violation that contains content that includes NSFW material or gore. 
+::(c) Any violation that promotes, encourages or advocates for violence, violent extremism or terrorism. 
+::(d) Any violation that is a serious doxxing attempt. 
+::(e) Any violation that includes organization, promotion, encouragement of or participation in a targeted campaign aimed at overwhelming the communication systems of SimDemocracy.
+::(f) Any violation that poses a threat to the existence of the state of SimDemocracy.
+
+::§1.1.1. When requesting such certification, if it is illegal for the violating content to be shown to a Judge pursuant to any real-life law, an officer may swear under penalty of perjury, with the maximum sentence being one year, that a person committed violations which would be classified under this section. In particular, details of the surrounding context and the content should be provided.
+:§1.2. The Judge must then make the decision whether the act falls under this Article, and certify only if it does.
+:§1.3. After certification is made, the Judge shall serve the notice provided in Appendix A to the defendant. The Court Registrar shall then assign the case to a Judge on a rotating schedule for sentencing purposes.
+:§1.4. The assigned Judge shall serve a summons to the defendant, who may then elect to have an attorney represent them, or a Public Defender. The Attorney-General may appoint a person to represent the State.
+:§1.5. The court shall then proceed to mitigation, where mitigating and aggravating factors may be presented and rebutted by both parties. The Judge shall then have 24 hours to deliver a sentence.
+
+==Part 6: Amendments to related Acts==
+===Article 16: Repeals and Amendments===
+§1. The [[Guaranteeing Equal Enforcement of the Terms of Service Act 2025]] is repealed.
+
+§2. The [[Preserving Order with Legal Intent and Civic Excellence Act]] is repealed.
+
+§3. Article 6, §4 of the [[Executive Act 2023]] is repealed, and replaced with the following article:
+     “§4. The SDBI shall be given sufficient permissions to carry out its legal duties on all platforms, pursuant to the request of the Attorney-General.”
+
+§4. The [[Courtroom Procedures Act 2025]] is amended by replacing Article 7, §3.3 with the following text:
+     “§3.3. The Judge shall then make a determination on whether the defendant is likely to reoffend, by considering –
+          (a) The nature, number and seriousness of the accused's charges;
+          (b) The accused's criminal history;
+          (c) The accused's general character; and,
+          (d) Such other factors the Judge considers necessary, based on the evidence provided.
+          §3.3.1. If the Judge determines that the defendant is likely to reoffend, the defendant will be arrested throughout the trial. Otherwise the defendant shall be released until the conclusion of the trial. This determination shall not be made if –
+               (a) The defendant is serving a ban after conviction on a different crime;
+               (b) The defendant is required to be banned or muted during the trial in accordance with some other law.”
+
+§5. The [[Sentencing Act]] is amended by adding the following new section to Article 2, which shall read:
+     “§2. The Judge shall also consider if an egregious violation of the Terms of Service was committed, in which case the minimum sentence shall be 3 months.
+          §2.1. The following are examples of cases where a violation of the Terms of Service is egregious:
+          (a) The violation was repeated multiple times in a short amount of time;
+          (b) The violation was highly intense; or,
+          (c) The violation contained serious doxxing or repeated Hate Speech or Harassment.”
+
+§6. The following Article shall be inserted into the [[Criminal Code 2020]], in Part 10:
+     “'''Article X: Destruction of evidence'''
+     §1. Whoever destroys or causes to be rendered illegible any document or thing which he may be lawfully compelled to produce as evidence, commits Destruction of Evidence.
+     §2. The punishment for Destruction of Evidence shall be a ban or mute of no longer than one (1) month.”
+
+''Note from the Chief Archivist: this was renumbered to be added as Article 24a instead. (Article 24 is Witness and Evidence Tampering.)''
+
+§7. “Article 64 Terms of Service Violation” and “Article 52 Racketeering”  shall be inserted into the Second Schedule of the [[Criminal Code 2020]].
+     §7.1. “Article 51 Terrorist Conspiracy” shall be inserted into the First Schedule of the [[Criminal Code 2020]].
+
+§8. A new Third Schedule of the [[Criminal Code 2020]] shall be created, which shall include Article 20 Obstruction of Justice, Article 31 Misuse of Permissions, Article 48 Revealing State Secrets, Article 49 Brigading and Raiding, and Article 50 Spamming, and Article 50a. Voice Chat Disruption.
+
+<s>§9. Article 22, §2.3.1. of the [[Constitution]] is deleted.</s><ref name="approve">''The referendum failed on 13 July 2025.''</ref>
+
+<s>§10. Article 22, §2.4. of the [[Constitution]] is amended to read<ref name="approve" /> –
+     “§2.4. The lawful summary suppression, arrest, detention, muting, or ban of a person for the purposes of enforcing egregious violations of the Reddit and Discord Terms of Service and other constitutional obligations of the state.
+          §2.4.1. The following are examples of cases where a violation of the Terms of Service is egregious:
+               (a) The violation was repeated multiple times in a short amount of time (including mass spamming or pinging);
+               (b) The violation was highly intense; or,
+               (c) The violation contained serious doxxing, NSFW, or gore.
+          §2.4.2. Within a reasonable time after the issuing of such a suppression, a competent court must certify that the person committed egregious violations of the TOS, and issue a sentence for that said violation.
+          §2.4.3. Further legislation may determine the procedures to be followed for the purposes of §2.4.2.”</s>
+
+==Part 7: Appendix==
+===Appendix A===
+§1. The following message is to be provided to persons who are arrested:
+     “You are currently under arrest. Please be informed of the following:
+     1. You have the right to see the criminal complaint filed against you within 72 hours. If this does not happen you may be released.
+     2. You may obtain legal representation for free from the legal-clinic channel.
+     3. You have access to the holding cell, a chat channel for arrested persons. You are not required to speak here or answer any questions, but doing so may expose you to more charges, especially if you commit another offence, and your access may be revoked.”
+
+<ref name="jul2025" />§2. The following message is to be provided to persons who are banned pursuant to Article 15:
+ “You have been banned for a TOS violation, pursuant to Article 22, §2.4 of the Constitution and Article 15 of the Criminal Procedure Code. You have the right to appeal to the Supreme Court if you believe that your actions were not sufficiently egregious to warrant such enforcement action.
+ Your case will now proceed to sentencing. You will be assigned a Public Defender to defend you in court, or you may contact and retain your own legal representation.”
+
+==References==
+<references />
