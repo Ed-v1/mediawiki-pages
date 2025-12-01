@@ -1,0 +1,142 @@
+[[Category:Executive]] [[Category:Legislation]] [[Category:Economic Law]]
+= Executive Departments Act 2025 =
+
+Passed by the Senate on 20 July 2025 and signed by the President on 21 July 2025.
+
+== Part 1: Structure of the Executive ==
+
+=== Article 1: Departments ===
+
+§1. Departments shall be executive bodies that manage a specific sector of public administration.
+
+§2. Departments established and regulated by Act of Senate shall be known as Statutory Departments
+
+§3. The President shall have the power to establish, regulate, and abolish Non-Statutory Departments through Executive Orders.
+
+:§3.1 Non-statutory departments may not be assigned portfolios, powers, and duties already assigned to statutory departments.
+
+§4. The President and Executive Officers shall have the power to hire staff to assist with their duties and to determine fair and reasonable wages for them.
+
+§5. Executive Officers may name a member of their department as their deputy who shall be able to exercise the powers of the office during the absence or incapacitation of the Executive Officer. 
+
+:<ref name="podesc" />§5.1. To prevent confusion, Deputy Executive Officers shall be an Executive Branch Manager position.
+
+== Part 2: Statutory Departments ==
+
+=== Article 2: The Department of Justice (DOJ) ===
+
+§1. The Attorney General (AG), an Executive Officer, shall be the head of the DoJ which shall be responsible for representing SimDemocracy in any legal matter and enforcement of the law via internal policing and the conduct of lawful investigations.
+
+§2. The DoJ shall have within itself two agencies: The SimDemocracy Bureau of Investigation (SDBI) and the State Attorneys’ Office (SAO); each led by a Director appointed by and serving at the pleasure of the AG.<ref name="ohsmerger">Amended by the [[OHS Merger Act]]</ref>
+
+§3. The SDBI shall manage the internal policing functions of the DoJ in accordance with law.
+
+:§3.1 The OHS shall be a special investigative body within the SDBI<ref name="ohsmerger" /> to investigate violations of law by those who have been a member of the SimDemocracy for seven days or fewer, or those determined to be involved in committing, conspiring to commit, or planning to commit hostile foreign action against SimDemocracy based on reasonable articulable suspicion.
+:§3.1.1 The term “hostile foreign action” shall be defined as foreign organizations or groups involved in actions, behaviors, or communications that indicate a desire, willingness, or intention to disrupt, hurt, or delay the regular activities of SimDemocracy.
+:§3.1.2 Should a border be created restricting passage into the SimDemocracy Discord Server, the OHS shall have the power to allow individuals to pass the border in accordance with internal policy.
+
+§4. The SAO shall represent SimDemocracy in legal affairs, including but not limited to conducting criminal prosecution on behalf of the State of SimDemocracy, representing the State in civil proceedings and providing argumentation on behalf of the state before the Supreme Court.
+
+:§4.1 The SAO shall advise government officials on matters of law upon request.
+
+=== Article 3: The Department of State (DoS) ===
+
+§1. The Secretary of State (SoS), an Executive Officer, shall be the head of the DoS which shall be responsible for expanding, managing, and resolving foreign affairs under the direction of the President.
+
+§2. The Department of State shall have the power to negotiate partnerships with other communities, which shall allow a link of that community’s server to be posted in the relevant Discord channel.
+
+:§2.1 All partnerships must be ratified by the President and may be abolished in the same manner.
+
+§3. The Department of State shall have the power to negotiate treaties and alliances.
+
+:§3.1 All treaties and alliances must be ratified by the appropriate medium, be it presidential decree, statute, or constitutional amendment.
+
+===Article 4: The SimDemocracy Armed Forces (SDAF)===
+<ref name="deptwar" />
+
+§1. The President shall be the head of the SDAF, and have the authority to dissolve or reinstate it any time. 
+:§1.1. The President may appoint a Chief of Armed Forces (CoAF), who shall serve as their deputy and be delegated authority to help run the SDAF. The Chief of Armed Forces shall not be an executive officer. 
+
+§2. Upon the President dissolving the SDAF, all employees of it shall have been considered to have been fairly and legally fired and may not seek remedy for losing employment from the SDAF. 
+
+§3. The SDAF shall be a virtual armed force for the conducting of meme wars and operations consisting of virtual military personnel, equipment, weapons, and tactics.
+
+§4. The President shall have the authority to put any employee of the SDAF on reserve or active duty for any reason. 
+
+§5. The work of the SDAF shall be governed by the [[War and Peace Act 2025]].
+
+=== Article 5: The Department of Expansion (DoEx) ===
+
+§1. The Secretary of Expansion (SoEx) shall be the head of the DoEx.
+
+§2. The DoEx shall work to promote the sense of community among citizens of SimDemocracy by holding events and by other means.
+
+===Article 6: The Department of the Treasury (DoT)===
+<ref name="undotreas">[https://docs.google.com/document/d/18SQSDhv7AKxoXJLk1-Y29VpnvrFRFB9kj_ePlz2kBvs/edit?tab=t.0 Undoing the Treasurer Amendment Amendment] passed and signed 3 November 2025.</ref>
+
+§1. The Secretary of the Treasury (SoT) shall be the head of the DoT.
+
+§2. The DoT shall maintain the economic holdings of the state.
+:§2.1. The DoT shall control all money held by the government or government accounts that have not been assigned to specific causes by the Senate or are otherwise required for alternate purposes by law.
+:§2.2. The DoT may take temporary ownership of accounts of other government entities in order to ensure compliance with law, proper handling of the funds found within, and to ensure proper maintenance and issuance of payroll using said account.
+:§2.3. The DoT shall record all financial transactions of the state and shall maintain a public ledger of all such receipts and disbursements.
+:§2.4. The DoT shall oversee the administration of taxation and revenue programs.
+
+§3. The DoT shall maintain payroll for the state.
+:§3.1. The DoT shall process payroll for government employees on a weekly basis, no later than Sunday of each week.
+
+§4. The DoT shall be the primary regulatory body for Corporations and shall regulate their creation, sale and liquidation as well as the exchange of Stock of such Corporations and creation and usage of such Corporation’s taubot accounts.
+:§4.1. The DoT may create state-owned Corporations or purchase private corporations to bring under state ownership, and shall manage such state-owned corporations.
+:§4.2. The DoT shall oversee the forced creation, sale, and liquidation of Corporations where authorised by the Senate or court order.
+
+§5. The DoT shall advise the DoJ on the enforcement of the criminal and civil code against Corporations, and may initiate investigations on perceived violations.
+
+===Article 7: The Department of Growth (DOG)===
+<ref name="dog">[[Statutarisation of Department of Growth Act 2025]]</ref>§1. The Head of the Department of Growth (DoG) shall be the Secretary of Growth. 
+
+§2. The President or the Secretary of Growth may approve new departmental strategies in order to boost SimDem’s growth.
+:§2.1. Employees of the Department of Growth shall execute these ideas through posting, crossposting, image design, talking, or any other means necessary according to the topic, under the direction of the Secretary of Growth.
+
+§3. The Department of State shall share information to the DoG regarding server partners, and the DoG shall share information to the Department of State regarding plans that might influence or be influenced by foreign affairs and diplomatic relationships with other states.
+
+§4. The DoG shall share relevant information about their plans and strategies to the SDBI, SDAF, and the DoEx.
+
+=== Article 8: The Department of the Technology (DoTech) ===
+<ref name="dotech">[https://docs.google.com/document/d/1BVIMyw7kin_W9xKQ7DHxYwf_2Y4XdhZL3ckuJTBS9UM/edit?tab=t.0 Statutarization of Department of Technology Act 2025] passed and signed on 20 November 2025.</ref>
+
+§1. The Secretary of Technology (SoTech) shall be the head of the DoTech.
+
+§2. The DoTech shall be responsible for maintaining the technological affairs of the server, including but not limited to the function of the economy.
+
+§3. The DoTech may coordinate with, and assist, other departments, offices and entities in matters relating to the implementation or development of technological programs.
+
+== Part 3: Implementation ==
+
+=== Article 9: Repeals ===
+
+§1. The following shall be repealed:
+
+:§1.1 [[Executive Act 2023]],
+
+:§1.2 [[Multitude Of Offices Act]],
+
+:§1.3 [[Integrity of Justice (Protection) Act]],
+
+:§1.4 [[Community Bridge Alliance Act]],
+
+:§1.5 [[Executive Office Accountability Act]],
+
+:§1.6 [[Homeland Security Act II]],
+
+:§1.7 [[Special Military Authorization Act 2024]],
+
+:§1.8 [[Treasury Liaison Act]],
+
+:§1.9 Part 1, Article 2 of the [[Revised Economy Foundation]],
+
+:§1.10 [[Commerce Actualizations Act]],
+
+:§1.11 [[Taxation Framework Act]].
+
+==References==
+<references />
