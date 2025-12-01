@@ -1,0 +1,575 @@
+[[Category: Legislation]] [[Category: Judicial Law]]
+'' Courtesy of Ed, there is an [https://drive.google.com/file/d/1Jz1CyVksAAuOiNE0_e5_wExbjBCmrTxN/view?usp=sharing audio recording] by Ivy Cactus of this legislation, as it existed on 20 August 2025. ''
+
+==Preamble==
+'''Whereas''' There are some mistakes within the Court Room Procedures Act;
+
+'''And Whereas''' There must be procedures for Criminal trials and Civil hearings;
+
+'''The Senate of SimDemocracy Proclaims:'''
+=Courtroom Procedures Act 2025=
+''An Act relating to Courtroom Procedures.''
+
+==Section 1: Repeals and Amendments==
+§1. The [[Court Room Procedures Act]] is repealed.
+
+§2. The [[Criminal Code]] is amended by –
+:§2.1. Deleting the word “special” from [[Criminal_Code_2020#Article_4._Sentencing_Specifications|Article 4, §3]].
+:§2.2. Deleting all the words after “after” in [[Criminal_Code_2020#Article_4._Sentencing_Specifications|Article 4, §7]], and replacing with the phrase “as soon as a person with the relevant permissions enforces the punishment.”
+:§2.3. Deleting all the words after “days” in [[Criminal_Code_2020#Article_4._Sentencing_Specifications|Article 4, §10]].
+
+§3. The [[Speedy Courts Act 2024|Speedy Courts Act]] is amended by –
+:§3.1. Replacing all references to seventy-two (72) hours to forty-eight (48) hours.
+
+==Part 1: General Procedures==
+===Article 1: Definitions===
+§1. A criminal trial is defined as the state pursuing charges against a legal entity or entities<ref name="cpaa4">[[Courtroom Procedures Amendment No. 2 Act 2025]]</ref> for committing an offence under the Criminal Code, or any other law.
+:§1.1. The Attorney-General may in writing provide the ability for any entity or entities<ref name="cpaa4" /> to pursue charges against an entity or entities<ref name="cpaa4" /> privately, if the Attorney-General intends not to prosecute the case.
+::<ref name="cpaa3" />§1.1.1. A charge lying against any member of the Cabinet, or the President, may be pursued without the approval from the Attorney-General, provided that the Attorney-General must first indicate that they will not be pursuing the case within a reasonable time of a report being made.
+
+:<ref name="cpaa4" />§1.2. When a prosecution is conducted by a person other than the Attorney-General, the Attorney-General may take over the conduct of the prosecution at any stage and continue or discontinue the prosecution, and/or assign the prosecution to any other person or group of persons who the Attorney-General thinks fit, except for cases filed under §1.1.1, and this exception shall not apply if the Judge otherwise orders.
+
+§2. A civil trial is defined as a legal entity or entities<ref name="cpaa4" /> with a cause of action against another seeking relief.
+
+:<ref name="amendsep25" />§2.1. In every civil trial, law and equity shall be administered by the court concurrently, if the plaintiff or respondent claims to be entitled to any equitable relief, estate, or right, and the court shall be empowered to grant such equitable relief pursuant to the powers granted in this Act.
+
+§3. In a Criminal Trial, the party bringing the suit is the Prosecution, and the party responding to the suit is the Defense or the Accused. In a Civil Trial, the party bringing the suit is the Plaintiff, and the party responding to the suit is the Defense.
+
+§4. Where the suit is brought by or against the State of SimDemocracy, the name in the title of the suit is “SD”, and when a suit is brought by or against a private citizen, the name in the title of the suit is the name of the citizen.
+
+<ref name="cpaa2" />§5. The term “Cabinet” in this Act refers to any non-elected officer who serves at the pleasure of the President, and is confirmed by the Senate, and the Attorney-General.
+
+<ref name="cpaa4" />§6. Where this Act specifies that a Judge is to be assigned on a rotating schedule, the schedule is only to include Judges who are not on break and have shown activity in the past week.
+
+<ref name="cpaa4" />§7. Cases against multiple legal entities may be heard at the same time by a single Judge, who may try the cases together or one after the other.  
+
+:§7.1. Within a joint trial, the defense may either provide a single defense attorney for all persons, or a person may apply to have a separate defense attorney if they provide one.
+
+===Article 2: Filing of complaint===
+§1. A Complaint may be filed in any channel on the SimDemocracy Discord Server which the Registrar and all Judges and Justices are able to view; Provided that –
+:(a) The channel’s title or description must reference the fact that it is meant for communication with the Judiciary, or for filings in court;
+:(b) The channel must be owned by the government; and,
+:(c) The Defendant must be notified of the filing of the complaint and must be able to see the complaint against them.
+
+§2. A complaint containing classified information may be filed directly with the Registrar, but a redacted version of the complaint must be provided to the Defendant within a reasonable time.
+
+§3. A Civil Counterclaim may be filed against a claim if the claim arises from one or more of the same actions resulting in the original claim. The claim and counterclaim will be heard together.
+
+===Article 3: Redaction of Evidence===
+<ref name="redact" />
+§1. Any party may petition, ex parte, the Judge in a criminal or civil case for a piece of documentary evidence or part thereof to be admitted in a redacted form, on the following grounds –
+::(a) The evidence would be harmful to national security or public interest to present unredacted; or,
+::(b) The evidence would violate the right of a person to be safe and secure in their physical being, if disclosed.
+:§1.1. Redacted evidence may only be admitted under §1(a) if the Attorney-General has certified the evidence to meet the requirements of §1(a).
+:§1.2. When considering whether evidence satisfies the requirements in §1(b), the Judge shall consider –
+::(a)The credibility of the threat to the person;
+::(b) The nature of the evidence;
+::(c) The potential harm from the disclosure of the evidence; and,
+::(d) The identity and vulnerability of affected persons.
+
+§2. When a piece of evidence is redacted, it is the duty of the Judge to consider if the unredacted evidence would be successfully objected to on the ground of any objection under [https://qwrky.dev/mediawiki/index.php?title=Courtroom_Procedures_Act_2025&oldid=2867#Article_13._Evidence_Procedures Article 13: Evidence Procedures].
+:§2.1. If the Judge decides that the evidence would be objectionable, it is the duty of the Judge to not allow the evidence to be admitted. 
+:§2.2. In making the determinations, the Judge shall have the power to make such ancillary orders to either party as may be necessary, provided that prior to making any such orders, the Judge must show the orders privately to the party introducing the redacted evidence, and only make the order if the party wishes to continue to admit the evidence.
+
+§3. When a large portion of the evidence has been redacted, the Judge shall make a summary of the redacted evidence and present it to the parties.
+:§3.1. Prior to issuing any such summaries, the Judge must show the summaries privately to the party introducing the redacted evidence, and only make the order if the party wishes to continue to admit the evidence.
+
+§4. Any redacted evidence may not be questioned on the basis of the evidentiary objections in [https://qwrky.dev/mediawiki/index.php?title=Courtroom_Procedures_Act_2025&oldid=2867#Article_13._Evidence_Procedures Article 13, §2.3 and §2.4], and may also not be questioned where such questions would lead to a revealing of any redacted portion of the evidence, or any other information contrary to national security or which would violate the right of a person to be safe and secure in their physical being.
+
+===Article 4: Location of Trial===
+§1. Trials and Pre-Trials, so far as is possible, shall be conducted on the SimDemocracy Discord Server Courtrooms.
+:§1.1. The trial may also take place on a Google Document, if it is expedient to do so, and the google document shall include sections for –
+::(a) Making arguments;
+::(b) Responding to arguments;
+::(c) Presenting evidence;
+::(d) Making motions; or,
+::(e) Otherwise conversing with the court.
+:§1.2. A voice trial may also be conducted, where images of evidence are submitted within a text channel, but testimony and argumentation is given in a voice channel. This may only be done if agreed upon by all parties and the Judge, and the trial must be recorded.
+:§1.3. A Google Document or Text Channel Courtroom trial may be held asynchronously, if it is unlikely that both parties will be available at the same time.
+:§1.4. A private courtroom may also be provisioned, if the provision of such a courtroom is expedient to the purposes of justice, or certified by the Attorney-General to be required by reason of national security. If such a courtroom is used, the Pre-Trial and Trial shall take place in a courtroom only visible to the parties and judge, and such other persons as law or technological limitations may require, and the content within such a courtroom shall not be declassified until five (5) months after the trial, or as the Attorney-General may direct.
+
+===Article 5: Motions===
+§1. The following motions are able to be made at any point in the trial or pre-trial –
+
+:<ref name="cpaa4" />(a) Motion for substitution or recusal of the representation of a party, which may be used to substitute the Judge or the representation of any party in a case.  
+::(a)(i) A motion to recuse a Judge may be made if there is a real likelihood that a fair hearing or trial is not possible.  
+::(a)(ii) The Defense or Plaintiff may substitute their own counsel at any time by making this motion. The Judge may also do so if a trial is in absentia, there is sufficient reason to do so, and the counsel is provided by the state.  
+::(a)(iii) The Prosecution in a case may be substituted in accordance with Article 1, §1.2, but this does not limit the abilities of the Attorney-General in accordance with that section.  
+:(b) Motion for Adjournment or Recess, which shall be for no more than 10 days and shall not be made without adequate reasoning;
+:(c) Motion for Mistrial, which shall be granted on the basis of an error severe enough to affect the legitimacy of due process; and,
+:(d) Motion for Private Courtroom, which may be filed at any point in the proceedings on the basis that such a private courtroom would be in the interests of justice, or as may be otherwise provided for in this Act. Channels shall be made if private courtrooms are used, and the contents therein shall be stored until at least 6 months after the trial.
+:(e) Motion to Dismiss, which may be made as specified by law, or for the purposes of dismissing a frivolous and vexatious claim.
+
+:§1.1. A motion for Recusal is said to be made out if –
+::§1.1.1. The Judge is the creditor or debtor of any of the parties, the complainant, the victim, or the injured party,
+::§1.1.2. The Judge has a close friendship or serious enmity between any of the parties, the complainant, the victim, or the injured party, or the relevant judicial officer,
+::§1.1.3. The Judge has previously participated in the proceedings outside of their position as Judge on the case.
+::§1.1.4. The Judge has acted as a plaintiff or prosecutor in the proceedings.
+::§1.1.5. The Judge is not able to preside over cases in a reasonably efficient manner.
+::§1.1.6. Generally if there exists a conflict of interest that prevents them from being unbiased.
+
+<ref name="cpaa4" />§2. The Judge may also take such other motions at any time which are described and allowed by law.
+
+<ref name="amendsep25" />§3. All motions must be provided with a decision and, if appealed, adequate reasoning as to the grounds of the decision, and all decisions are appealable immediately to the Presiding Judge.
+:§3.1. An appeal must be filed as soon as practicable after the issuance of a ruling, and must contain the grounds for appeal.
+:§3.2. In deciding an appeal, the Judge may uphold the original decision or overrule it, and must provide adequate reasoning when doing so.
+:§3.3. If additional time is required to file an appeal, the appealing party may file a notice of appeal as soon as practicable, and the Judge may allow an appeal to be filed at a later date.
+::§3.3.1. The Judge may suspend the proceedings prior to an appeal being filed, if necessary.
+
+<ref name="amendsep25" />§4. If the appealing party is not a party to a proceeding, they may file an appeal through the normal manner of filing cases with the Supreme Court or relevant appellate court, and the first instance of such an appeal shall have an automatic suspensory effect on the relevant order unless the appellate Court otherwise specifies. 
+
+===Article 6: Change of Judge during trial===
+§1. Where a Judge is no longer able to preside over a trial, it may be continued by another Judge who has or who exercises such jurisdiction, and the new Judge need not hear all the argumentation and evidence again unless the trial is a voice trial.
+
+:<ref name="speedy" />§1.1. Should a judge or justice be unable to preside over the proceedings in a reasonably efficient manner, they must remove themselves from the case and a new judge or justice shall be appointed. 
+
+==Part 2: Criminal Procedures==
+===Article 7: Conduct of Pre-Trial===
+
+<ref name="sync" />§1. A pre-trial shall be assigned to a Judge on a rotating schedule. The Judge assigned to the pre-trial may preside over any subsequent trial, mitigation and sentencing arising from the same Criminal Complaint.
+
+§2. The Trial is not to begin until the Pre-Trial is completed.
+
+§3. A criminal pre-trial shall follow the following process:
+:§3.1. The prosecution will bring forward the charge(s), cite the necessary documents, and recommend a sentence suitable for the crimes committed. The Prosecution shall also present evidence on whether the defendant is likely to reoffend if released. The charges presented must be the same as in the relevant Criminal Complaint, or the Court must adjourn the pre-trial for at least 24 hours for the Defense to prepare for the changes.
+::§3.1.1. The Defense may then make a motion to dismiss, or provide evidence to show why the defendant is unlikely to reoffend.
+:§3.2. The Judge shall then make a determination on whether there is Probable Cause for the Criminal Complaint. If there is not, the complaint must be dismissed and the defendant must be released.
+:<ref name="crimpro">[[Criminal Procedure Code 2025]]</ref>§3.3. The Judge shall then make a determination on whether the defendant is likely to reoffend, by considering –
+::(a) The nature, number and seriousness of the accused's charges;
+::(b) The accused's criminal history;
+::(c) The accused's general character; and,
+::(d) Such other factors the Judge considers necessary, based on the evidence provided.
+::§3.3.1. If the Judge determines that the defendant is likely to reoffend, the defendant will be arrested throughout the trial. Otherwise the defendant shall be released until the conclusion of the trial. This determination shall not be made if –
+::(a) The defendant is serving a ban after conviction on a different crime;
+::(b) The defendant is required to be banned or muted during the trial in accordance with some other law.
+
+:§3.4. The defense shall plead either guilty, or not guilty to the charge(s).
+:§3.5. Should the defense plead guilty, the Judge will sentence them during the pre-trial, in accordance with §4.
+::§3.5.1. If it appears to the Judge that –
+:::(a) The Defendant does not understand the nature or consequence of their Guilty Plea; or,
+:::(b) The Defendant does not completely agree with the facts as set out in the Criminal Complaint,
+::The Judge may reject the guilty plea and enter a plea of not guilty.
+:§3.6. If the defense refuses to make a plea, provides a plea other than “Guilty”, or does not make a plea within a reasonable time, the Judge shall enter a plea of Not Guilty.
+::§3.6.1. The Court may postpone the taking of a plea, if there is a discussion on a plea deal.
+::§3.6.2. If a plea deal is accepted by the court, the case immediately concludes.
+:::§3.6.2.1. A plea deal may specify a plea other than “Guilty”, provided that it is clear as to the effect of such a plea.
+::§3.6.3. Plea deals may only be offered in pre-trial.
+
+:§3.7. Either side may then admit evidence for use in the Trial, and make any necessary motions. They may do so earlier if the Judge so allows.<ref name = "evidence2025" />
+
+:§3.8. The court will declare the pre-trial over, and ensure all the documents, preliminary rulings and evidence are prepared for the trial court.
+
+§4. Following a plea of guilty, the defendant may motion for the court to go into mitigation should the defendant disagree with the prosecution’s recommended sentence.
+:§4.1. In mitigation, mitigating and aggravating factors may be presented and rebutted by both parties, who may also recommend a specific sentence.
+:§4.2. The Judge shall then rule on a sentence, and provide appropriate reasoning. The Judge shall sentence the defendant in accordance with law.
+:<ref name="expartemisc">[https://docs.google.com/document/d/1cAWJXkU7M-sJuao8UPLUwAamE5D7Mq150qv1YA9irPs/edit Judiciary (Miscellaneous Amendments) Act 2025] passed 14 October 2025 and signed 15 October 2025.</ref>§4.3. The Court may take evidence at this stage if presented to determine the truth of matters presented before the Court which may materially affect the sentence.
+:<ref name="expartemisc" />§4.4. Where the court is satisfied that any matter raised in the plea in mitigation materially affects any legal condition required by law to constitute the offence charged, the court must reject the plea of guilty.
+
+§5. Any evidence either party wishes to use during the trial must be submitted to the courts at the conclusion of the pre-trial.
+:§5.1. Evidence that has been subpoenaed through a motion shall be admissible regardless.
+
+<ref name="ptea">SB13 Courtroom Procedures Amendment Pre-Trial Efficiency Act (PTEA) passed by the 143rd Senate on 17 June 2025 and signed by the President on 18 June 2025.</ref>
+§6. In criminal complaints where the suspect and the State Attorney have already come to an
+agreement with a plea deal, a pre-trial shall be assigned on a separate rotating schedule from normal
+pre-trials, and shall be given precedence over the other complaints and be granted permission to start
+immediately.
+:(a) Such requests shall be requested by the State Attorney Office directly to the Court Registrar for an immediate scheduling of a pre-trial.
+:(b) Upon receipt of the request to the Court Registrar, the Court Registrar shall schedule a pre-trial to start within forty eight (48) hours.
+:(c) The pre-trial shall go directly to the consideration of the plea deal.
+:(d) If a plea deal is not finalised immediately during the pre-trial, the case shall be returned to the normal rotating schedule for pre-trials, and the suspect shall be remanded back into custody.
+
+===Article 8: Conduct of Trial===
+
+<ref name="sync" />§1. A trial shall follow the following process:
+:§1.1. The prosecution shall present the charges and their opening statement.
+:§1.2. The defense shall present their opening statement.
+:§1.3. The prosecution shall present their evidence, allowing the defense to cross-examine each article, and make main argumentation that the defense may respond to. The defense shall then do the same.
+:§1.4. The prosecution shall bring forth any testimonies they wish to present, which must be presented via a first-party account. The defense will then be allowed to question the testimony. The defense shall then do the same.
+:§1.5. The prosecution shall present their closing statement, followed by the defense presenting their closing statement, which may be rebutted by the prosecution.
+:§1.6. The Judge shall then deliver the verdict concerning the guilt of the defendant.
+:§1.7. If the defense is found to not be guilty, they are to be released.
+:§1.8. If the defense is found to be guilty, the court shall then proceed to mitigation, where mitigating and aggravating factors may be presented and rebutted by both parties.
+::§1.8.1. Regardless of any legislation to the contrary, any party may motion to introduce evidence or witnesses for the purposes listed above when the trial reaches this stage.
+:§1.9. The Judge shall then have twenty-four (24) hours to deliver a sentence.
+
+§2. The defendant may plead guilty at any time during a criminal trial whereupon the trial shall immediately proceed to the procedure listed in §1.8.
+
+§3. Should a party find new evidence during the trial which is vital to their case, they shall have the opportunity to enter a motion for recess on the grounds of new information, and apply to have such evidence admitted.
+:§3.1. Recess on the grounds of new information shall take a minimum of eight (8) hours, with a maximum of twenty-four (24) hours.
+
+===Article 9: Criminal Complaint and Charging===
+§1. A Criminal Complaint shall contain the user IDs of every account mentioned in the complaint, or the username if the account is found on reddit.
+
+§2. A Criminal Complaint must individually state each charge, and the provision of the law against which the offence is said to have been committed must be mentioned in the charge.
+:§2.1. If the wording of a statute creates two or more methods of fulfilling an element of a charge, the charge must specify which element(s) the accused is said to have fulfilled.
+:§2.2. So far as is necessary, the charge may also give details of how the alleged offence was committed.
+
+§3. The charge must contain details of the time and place of the alleged offence and the person or thing against which it was committed, as are reasonably sufficient to give the accused notice of what the accused is charged with.
+
+§4. In every charge, words used to describe an offence are deemed to have been used in the sense attached to them by the law under which that offence is punishable.
+
+§5. A single charge is to be presented in one continuous body of text, shall only contain the required information under this Article, and shall not be amalgamated with other charges unless the alleged other incidents form a single course of conduct.
+:§5.1. An amalgamated charge must specify the number of other incidents and the aggregate outcome of all the incidents.
+:§5.2. An amalgamated charge must specify that it is being amalgamated under this section, and must clearly indicate how each action constitutes part of the charge. 
+
+§6. An accused who has been materially misled by an error or omission in a charge shall have the charge dismissed.
+:§6.1. An error or omission in a charge shall be ordered to be rectified by the Judge before the continuation of a pre-trial.
+:''Illustration for §6.''
+
+::''1. The user Dick_head is provided with one charge of making a frivolous claim. The charge specifies multiple incidences in which a frivolous claim was made, but does not state which incident Dick_head is being charged for. During trial, Dick_head and the prosecution refer to different incidents in attempting to prove their side of the case. The court may infer that Dick_head has been misled.''
+
+::''2. The user “Gooner” is charged with unlawful use of alt accounts with respect to his alternate account, “Gooning”. However, the evidence presented in the case is related to his other alternate account, “Goon”. Gooner provides evidence at trial relating to the alt account “Gooning”. The court may infer that Gooner has been misled.''
+
+:''Illustration of Criminal Complaint Charge''
+
+::''1. You, (list the name and ID here), are charged that you, on (date, time) in (location), did commit (charge name, location of statute), by (specify and fulfil each element of the charge and give additional details, if necessary)''
+
+:''Illustration of Amalgamated Criminal Complaint Charge''
+
+::''1. You, (list the name and ID here), are charged, in this amalgamated charge under Article 9 of the Courtroom Procedures Act 2025, that you did on (number of occasions) occasions embark on a course of conduct to (set out each action and demonstrate how it fulfils the charge), and you have thereby committed  (charge name, location of statute).''
+
+§7. The preliminary charge provided on the arrest of an individual is not considered as a Criminal Complaint under this article.
+
+===Article 10: Right of accused to be defended===
+§1. The accused in a Criminal Case has the right to an attorney, and, if the accused chooses not to appoint one, may be appointed an attorney, if requested, in accordance with the OPD Act.
+
+§2. No person shall represent another person or a body corporate in a criminal proceeding without having been certified by the bar.
+
+===Article 11: Summary Criminal Trial===
+
+<ref name="june30" />§1. A summary trial is to be used on request by the Prosecution, with the consent of the defense, and shall be accepted by the Judge if the use of a summary trial would not be against the interests of justice.
+
+§2. A summary trial shall skip the Pretrial and Trial procedures, and must be requested as soon as is possible at the start of a Pretrial. The summary trial shall be presided over by the pretrial Judge.
+
+§3. The following procedure is to be observed at a Summary Trial –
+:§3.1. The prosecution shall present the charges and present their evidence and argumentation.
+:§3.2. The defendant may then cross examine or object to the evidence and present any evidence and argumentation in their favor.
+:§3.3. The prosecution shall then cross-examine or object to the defense’s evidence.
+:§3.4. To avoid doubt, as there is no pretrial, the evidence is introduced into court as the Prosecution or Defense begins to use it. Its use may then be objected to and rebutted by the other party.
+:§3.5. Each party shall then present their recommendations as to sentencing, which may be rebutted, and their closing statement.
+::§3.5.1. The Prosecution may rebut the closing statement of the Defense.
+::<ref name="june30" />§3.5.2 The defense may respond to this rebuttal
+:§3.6. Afterwards, the presiding Judge shall have twenty-four (24) hours to deliver the verdict and sentence.
+:§3.7. A Judge may vary the procedure to ensure the trial remains fair and all sides are able to present their arguments.
+
+<ref name="summtrial" />
+§4. Notwithstanding any provision of any law, apart from §1.1. of this Article, the maximum punishment which may be provided through a summary trial for each charge is a three (3) month mute or ban, except for crimes in the First Schedule of the [[Criminal Code]], which shall follow the original time limit stated. If the original crime provision has a lower maximum sentence than 3 months, that lower maximum sentence shall apply.
+:§4.1. If the Prosecution proves, to a balance of probabilities, that the accused joined SimDemocracy with malicious intent, and the accused has been within SimDemocracy for less than 30 days on the specific account which the accused is being tried on, the maximum punishment shall be as stated in the [[Criminal Code]], and shall not be limited to 3 months.
+
+§5. If the Defendant pleads guilty at any point in the summary trial, it shall be taken as if the Defendant had pleaded guilty in a normal trial, and the normal mitigation procedure shall be followed.
+
+§6. The verdict may be shortened.
+
+==Part 3: Evidence and Witnesses==
+===Article 12. Witness Procedures===
+§1. In legal proceedings, witnesses may be called to testify by either counsel regarding facts to which they were personally witness.
+
+:§1.1. If the witness is the defendant party, they may be called as a witness, but shall have the right to refuse to say anything which may incriminate themselves.<ref name="evidence2025" />
+
+§2. Either party in a legal proceeding may motion to call witnesses, provided they offer adequate reasoning, subject to the judge's discretion.
+
+§3. Witnesses once accepted and recognized to speak may give their testimony, afterwards either party in the legal proceeding may go on to question them. 
+
+§4. The following types of questions shall not be allowed during a questioning of a witness:
+:§4.1. Leading; A question that suggests a particular answer or contains the information the examiner is looking to have confirmed. Leading question objections shall only apply on direct examination.
+:§4.2. Ambiguous or confusing; A question not clear or precise enough for the witness to properly answer.
+:§4.3. Argumentative; A question that makes an argument rather than asking a question.
+:§4.4. Assuming facts not in evidence; A question assuming a statement for which no evidence has been presented as true.
+:§4.5. Calling for a conclusion; A question that asks for an opinion rather than a fact.
+:§4.6. Compound; Multiple questions asked together.
+:§4.7. Irrelevant; A question not relevant to the matters of the trial.
+:§4.8. Incompetent; A question for which the witness is not qualified to answer.
+:§4.9. Calls for speculation; A question asking the witness to guess rather than relay facts.
+:§4.10. Beyond the scope; A question asked during cross examination not related to the testimony given during direct examination.
+:§4.11. Badgering; A question antagonizing the witness.
+
+§5. During any time when the witness is questioned; either party to the legal proceeding may raise an objection regarding a violation of procedures or rules of witness testimony.
+
+§6. Expert Witnesses may also be admitted in accordance with the [[Evidence Act 2025]], and the objections under §4.4, §4.5,<ref name="expartemisc" /> and §4.9 shall not apply to such witnesses.<ref name = "evidence2025" />
+
+===Article 13. Evidence Procedures===
+§1. In legal proceedings, either counsel may submit evidence related to facts pertinent to the case, in accordance with the regulations governing the specific type of trial.
+
+§2. Evidence shall be inadmissible on the following grounds:
+:§2.1. Personal data; Evidence containing personal information shall only be admissible with the consent of the person whose personal data it contains.
+:§2.2. Fruit of the poisonous tree; Evidence obtained by the SDBI or other governmental agencies through illegal means shall be inadmissible in court.
+:§2.3. Lack of foundation; Authenticity of a piece of evidence may only be questioned during its introduction. The opposing party may then motion for a recess in order to authenticate a piece of evidence; if its authenticity is not confirmed it shall be inadmissible.
+:§2.4. Incomplete; Evidence that lacks context, or is presented incompletely in order to mislead or deceive shall be inadmissible.
+:§2.5. Irrelevant; Evidence that is irrelevant to the trial, or exists only to cast the defendant in a bad light instead of proving that they committed the crime shall be inadmissible.
+
+§3. During any time when the evidence is presented; either party to the legal proceeding may raise an objection regarding a violation of procedures or rules of evidence.
+
+§4. No fact to which the court will take Judicial Notice to, shall need to be proved.
+
+§5. Courts shall take Judicial Notice of the following facts –
+:(a) All laws, rules and Executive Orders presently or previously in force in SimDemocracy;
+:(b) Whether SimDemocracy is in a State of Caution or Emergency under the relevant Act;
+:(c) The President and other Officers of SimDemocracy;
+:(d) The existence of any other sovereign states recognized by the Government;
+:(e) The ordinary course of nature;
+:(f) Natural and artificial divisions of time;
+:(g) The meaning of English words;
+:(h) The commencement, continuance and termination of any hostility between the Government and any other country or body;
+:(i) All other matters which it is required by law to notice.
+:<ref name="amendsep25" />(j) All equitable estates, titles and rights, and all equitable duties and liabilities, appearing in the course of a civil trial.
+In all these cases, the court may resort for its aid to appropriate documents of reference.
+
+§6. A fact admitted by both parties or their agents in writing need not be proved during trial, but the Judge may otherwise direct.
+:§6.1. A fact ascertained by redacted evidence need not be proved during trial.
+
+==Part 4 - Court Orders==
+===Article 14: Court Orders===
+§1. Judges shall have the ability to issue court orders to mandate or prohibit specific actions. They may be issued at any point of a legal proceeding. 
+:§1.1. The issuance of a court order may be requested by any party involved in the case, or initiated by the court itself, in order to ensure compliance with laws or regulations, safeguard rights, or address immediate legal needs.
+
+§2. Failure to comply with a court order may be prosecuted under Contempt of Court.
+
+§3. A judge's decision regarding a motion for an injunction or subpoena may be appealed through a motion that provides adequate reasoning. The judge must then consider the motion and either accept or reject it, providing a clear explanation for their decision.
+:§3.1. The counsel, person, or legal entity ordered by a court order may appeal the order providing adequate reasoning.
+:§3.2. A subpoena may be appealed by the subpoenaed party without permission if it has no relevance to the proceeding, or the party has no evidence to present, is overly broad or requires too much preparation time, or if it requires classified testimony or records.
+::§3.2.1. A fee may be set by the Judge for the issuance of a subpoena which requires a larger amount of time than normal to complete. This fee is to be paid to the person executing the subpoena, by the person requesting the subpoena, and shall not be considered a legal fee for the purposes of Article 27.
+
+§4. A court order may be appealed or rejected on the basis of:
+:§4.1. Lack of legal authority, or;
+:§4.2. Procedural errors during the granting or requesting a subpoena or injunction, or;
+:§4.3. The subpoena requiring classified or privileged information, or;
+:§4.4. Unfairly short term to complete a subpoena or injunction, or;
+:§4.5. An injunction or subpoena reaching beyond the scope of the issues discussed in the trial, or;
+:§4.6. An injunction or a subpoena being unfairly restrictive, or;
+:§4.7. Being granted without adequate reasoning.
+
+§5. A court cannot order a legal entity to perform an action which is illegal or which would be a criminal offense.
+
+===Article 15: Subpoena===
+§1. A subpoena shall be an order by the court to compel testimony by a witness or to hand over evidence regarding a trial.
+
+§2. A motion for a subpoena shall contain the subpoenaed person or piece of evidence, the legal entity responsible for the execution of the subpoena and the deadline which the subpoena is to be executed by.
+
+§3. A motion for a subpoena may be made only during the pretrial stage of the proceeding in question.
+
+===Article 16: Injunction===
+§1. An injunction shall be an order by the court for a legal entity to cease or carry out a certain action.
+
+§2. A motion for an injunction shall contain the action to be ceased or carried out, and the legal entity responsible for ceasing or carrying out the action; and the time period within which the action shall be ceased or carried out.
+
+§3. An injunction automatically ceases to have effect, 7 days after it is issued, unless the injunction is issued as a permanent remedy at the conclusion of a trial.
+
+===Article 17: Habeas Corpus===
+
+<ref name="clarify" />
+§1. Where a complaint is made to a Judge or Justice that a person is being unlawfully detained, the
+Judge or Justice shall inquire into the complaint and, unless satisfied that the detention is lawful, shall order the person released.
+
+§2. A complaint for a writ of Habeas Corpus may be made if one or more of the following conditions are met, including but not limited to:
+:§2.1. A pre-trial hearing has not commenced within 7 days following the filing of the criminal complaint; or<ref name = "amendment">[[Habeas Corpus Amendment]] passed on 11 July 2025 and signed the same day</ref>
+:§2.2. A warrant of arrest, signed by a Judge or Justice, has not been provided to the arrestee or the detainee upon their detainment; or
+:§2.3. The SDBI or the SAO had no lawful reason or justification for the arrest or detention.
+
+§3. A Judge or Justice must grant Habeas Corpus under the following circumstances,
+:§3.1. There is no valid and lawful reason for the individual’s continued detainment beyond 72 hours.
+
+§4. Should there be a valid exigency to keep an individual in detainment after 72 hours following the
+person’s arrest or detention, the Judge or Justice must detail their valid and lawful reason opposing the individual’s immediate release.
+
+===Article 18: Summary Judgement (Civil Trial)===
+<ref name="sumnov">[https://docs.google.com/document/d/1Ugd6mpvFp6cgRcy_7pS1bqZbmvIfytY6A4hd9JkAvyc/edit?tab=t.0#heading=h.lo43fjzaixcm Summary Judgement Amendments Act 2025] passed and signed 5 November 2025.</ref>
+
+§1. A motion for summary judgment shall not be granted unless the moving party establishes that:
+:(a) a prima facie case has been made against the opposing party;
+:(b) the opposing party has no viable defense in law or fact; and
+:(c) there exists no genuine issue of material fact requiring determination at trial.
+:§1.1. Upon such a motion being accepted for consideration, the opposing party shall have the burden of disproving at least one of the factors in §1, or of demonstrating that a full trial is necessary in the interests of justice.
+:§1.2. The Court shall issue a written order upon deciding a motion for summary judgment, stating the grounds for its decision and whether the matter, in whole or in part, shall proceed to trial.
+
+§2. A motion for summary judgment against the plaintiff shall be subject to the same standards and procedure as a motion against the defendant, including where it arises from a counterclaim.
+
+§3. Upon acceptance of a motion for summary judgment: 
+:§3.1. The Court shall notify the opposing party and set a period for the filing of a rebuttal.
+:§3.2. The opposing party may file a rebuttal demonstrating that genuine issues of material fact exist or that the interests of justice require a full trial.
+:§3.3. If the Court finds the rebuttal insufficient, it may proceed to determine the matter summarily.
+:§3.4. Where judgment is entered summarily, the Court may, upon application, consider submissions limited to the mitigation or quantification of damages.
+
+§4. Mitigating factors shall include, but are not limited to: 
+:§4.1. A liable plea;
+:§4.2. Voluntary compensation or an apology;
+:§4.3. The past behavior of the party;
+:§4.4. For group torts, where a defendant has a minor role in the commission of the tort; and
+:§4.6. Such other factors as the court may consider appropriate.
+
+§5. To avoid doubt, existing mitigating factors and absolute defences remain in force unless repealed.
+
+===Article 19: Summary Dismissal===
+§1. A case may be summarily dismissed if it is shown to have no reasonable and<ref name="expartemisc" /> probable cause.
+
+==Part 5: Civil Trial==
+===Article 20: Conduct of Pretrial===
+§1. The Pretrial in a civil trial shall proceed as follows:
+
+:<ref name="sync" />§1.1 A pre-trial shall be assigned to a Pretrial Judge on a rotating schedule. The Judge assigned to the pre-trial may preside over any subsequent trial, mitigation and costs hearings arising from the same Civil Complaint.
+:§1.2. The Plaintiff shall state the cause of action in the claim, and submit for approval all evidence, subpoenas, and witnesses intended to be used at trial. They may then make a motion for summary judgement, which may be responded to by the Defense.
+:<ref name="expartemisc" />§1.3. The Defense shall then state the cause of action for the counterclaim, if any.
+
+:§1.4. If the Pretrial continues, the Defense shall submit for approval all evidence, subpoenas, and witnesses intended to be used at trial. They may then make a motion for summary judgement, which may be responded to by the Plaintiff.
+:§1.5. Either party may then make any motions, including to request for a court order. They may make such motions at any point of time during the pre-trial.
+:§1.6. The Judge will then schedule the trial and declare the pre-trial over.
+
+§2. The Trial is not to begin until the Pre-Trial is completed.
+
+§3. If any party attempts to recognize a new tort, the pretrial Judge must rule on whether the tort is recognized, and shall define the tort. 
+:§3.1. The pretrial Judge shall not recognize a new tort unless the action would not reasonably fit under an existing tort. 
+:§3.2. The pretrial Judge shall not recognize a tort which has been declared to be abolished, or recognize a similar tort which would reasonably fit under the abolished tort.
+
+===Article 21: Conduct of Trial===
+
+§1. A civil hearing shall follow the following process:
+:§1.1. The plaintiff shall present their case, citing the necessary statutes, actions made by the defendant, or further relevant information.
+:§1.2. The defendant shall present their opening statement.
+:§1.3. The plaintiff shall present their evidence, allowing the defendant to cross-examine each article. The defendant shall then present their evidence, allowing the plaintiff to cross-examine each article.
+:§1.4. The plaintiff shall bring forth any testimonies they wish to present, which must be presented via a first-party account. The defendant will then be allowed to question the testimony. The defendant shall then do the same.
+:§1.5. The plaintiff shall provide their closing statement, followed by the defendant providing their closing statement.
+:§1.6. The presiding Judge shall have seventy-two (72) hours to deliver the verdict, providing reasoning and citing relevant acts, articles and precedents.
+::§1.6.1. The Judge shall order the liable party or parties to provide a remedy that the court finds suitable for the effects of their actions, within the guidelines specified in the SimDemocracy Civil Code.
+
+§2. Should a party find new evidence during the trial that they consider to be vital to their case, they shall have the opportunity to enter a motion for recess on the grounds of new information.
+:§2.1. Recess on the grounds of new information shall take a minimum of eight (8) hours, with a maximum of twenty-four (24) hours.
+
+§3. Should either party fail to be present at the scheduled time, the hearing will automatically be found in favor of the party present.
+:§3.1. Should the plaintiff be the absent party, they will be fined with an amount decided upon by the Judge at the hearing.
+:§3.2. Should both parties fail to be present, the court will automatically dismiss the hearing, and no fines will be given.
+:§3.3. If the absent party had a reasonable excuse for their absence and could not reasonably give notice, this section shall not apply and the hearing shall be rescheduled.
+
+===Article 22: Conduct of Small Claims Trials===
+<ref name="amendsep25" />§1. A Small Claims Trial shall be any trial which has a claim value below the salary of the President of SimDemocracy. 
+:§1.1. This limit may be removed by the consent of both parties.
+:§1.2. The claiming of equitable relief, pursuant to Article 1, §2.1. of the Act shall be permitted in a Small Claims Trial.
+
+§2. Parties are to be encouraged to represent themselves, and a case against a body corporate may be represented by an officer within the body. No costs shall be awarded in a Small Claims Trial.
+
+§3. The Small Claims Trial is to be presided over by the Pretrial Judge.
+
+§4. A Judge may use the normal trial procedure for a Small Claims Trial if they determine it is necessary to do so.
+
+§5. The primary function of the Judge in a Small Claims Trial shall be to bring the parties in a dispute to an agreed settlement.
+:§5.1. If it appears to the Court that it is impossible to reach a settlement within a reasonable time, the Court must proceed to determine the dispute.
+::§5.1.1. The Court must determine the dispute according to the substantial merits and justice of the case, and in doing so must have regard to the law, including the tort which the case is brought under, but is not bound to give effect to strict legal forms or technicalities.
+
+§6. The rules of evidence shall apply.
+::§6.1. If it appears to the Judge that any evidence is objectionable or inadmissible, they may make their own objection to the evidence and exclude it.
+::§6.2. The Judge is empowered to make recommendations to either party on how to cause their evidence to be made admissible, and may make such orders or directions as may be necessary to achieve that purpose.
+
+§7. A Court may, on its own initiative, seek and receive such other evidence and make such other investigations and inquiries as it thinks fit, but the evidence or results of any investigation or inquiries must be disclosed to all parties.
+
+§8. Proceedings before the Court are to be conducted in an informal, Judge-led manner.
+:§8.1. In conducting such proceedings, the Judge is to identify the main issues in a filing, and ensure that relevant evidence has been provided by both parties before the hearing begins.
+:§8.2. The Judge is also empowered and has the duty to make recommendations to the parties for the just and speedy disposal of the case.
+
+§9. Subject to this Act, the Judge shall have control of the procedure of the Court in the hearing of claims and, in the exercise of that control, shall have regard to the principles of natural justice.
+
+==Part 6: Special Provisions for trials==
+===Article 23: Trial in Absentia===
+§1. The presiding Judge may declare a pre-trial in absentia in any of the following cases:
+:§1.1. The defendant not responding within a reasonable time.
+:§1.2. The defendant spamming the court's chatroom with unrelated messages.
+:§1.3. The refusal of the defendant to participate in the pre-trial.
+:§1.4. If there is no means of contacting the defendant, and a reasonable belief of the defendant not being able to attend the pre-trial or not desiring to participate in the pre-trial, the Judge may declare a pre-trial in absentia immediately.
+:§1.5. If the defendant is convicted of Contempt of Court during proceedings.
+:§1.6. If a self representing defendant leaves during the pre-trial.
+
+§2. A Judge may declare a trial in absentia in any of the following cases:
+:§2.1. If the defendant repeatedly does not show up at the decided time.
+:§2.2. If the defendant requests the Trial's date to be prolonged despite having shown their activity in other communities.
+:§2.3. If the defendant requests more than two extensions.
+:§2.4. If the defendant spams the courtroom with unrelated messages.
+:§2.5. If the defendant refuses to participate in the trial.
+:§2.6. If there is no means of contacting the defendant, and a reasonable belief of the defendant not being able to attend the trial or not desiring to participate in the trial, the Judge may declare a trial in absentia immediately.
+:§2.7. If the defendant is convicted for Contempt of Court during the trial proceedings.
+:§2.8. If there is a reasonable belief that the defendant will refuse to participate in the trial.
+:§2.9. If a self representing defendant leaves during the trial.
+
+§3. The defendant may request a pre-trial or trial in absentia.
+:§3.1. If there is reasonable belief that the defendant will not appoint an attorney, or the defendant does not appoint an attorney within the allotted period; then a Public Defender shall be assigned.
+
+§4. Court shall be adjourned for a minimum of twenty-four (24) hours upon assignment of a new Defender to allow time for them to familiarize themselves with the case, which may be waived by the Defender<ref name="ppat" />.
+
+===Article 24: Concealment of identity of party, etc.===
+§1. If the concealment of the identity of a party or representation for that party would be expedient to the purposes of Justice, or the purposes of safety for the party or representation for that party, the Judge may allow for any party, or representation for the party, to appear in court through a bot or alternate account, rather than communicating on their main accounts.
+
+§2. A certification by the Attorney-General that the concealment of the party’s identity or representation for the party would be expedient to the purposes of Justice is conclusive in determining such.
+:§2.1. This section shall not prevent the Judge from making such a decision on their own.
+
+§3. A person who discloses the real identity of a person appearing in this manner is guilty of Contempt of Court.
+
+===Article 25: Time limits for proceedings generally, etc.===
+
+:<ref name="ptclarify" />(b) The Pre-Trial must begin up to 7 days after a Criminal Complaint is filed, if the person the Criminal Complaint pertains to is arrested or otherwise suppressed;
+:(c) After a trial concludes, a verdict must be delivered in 2 days for cases in the Inferior Courts; and,
+:(d) The Judge shall ensure that the Criminal Trial, as far as is possible, concludes within 14 days of the start of the Trial.
+If time limit (a) is not followed the arrested person is to be released.
+
+§2. A Judge who is unable to preside over a case in a reasonably efficient manner shall recuse, and a Judge may be recused for this purpose on special order of the Supreme Court, or '''sua sponte''' by the Judge.
+
+§3. A pretrial hearing in the inferior courts must take place within 14 days of the filing for civil complaints.
+</div>
+
+<ref name="speedy" />
+
+§1. Unless otherwise stated, any participant in a set of legal procedures shall be considered inactive if they, upon being given instruction by the court or when it is their time to provide argumentation, testimony, evidence, cross-examination, statements, instruction, etc. do not reply within forty-eight (48) hours.
+:§1.1. A reply shall constitute either compliance with court instruction, participation in the current step of courtroom procedures, or a request for an extension.
+::§1.1.1. A request for an extension to the forty-eight (48) hours time limit may be made at any time within the forty-eight (48) hours, but shall only be considered a “reply” for the purposes of this provision if accepted by the presiding judge or justice.
+::§1.1.2. The prosecution may not request an extension during criminal proceedings unless it is to enter a motion for recess on the grounds of new information in order to introduce newly discovered evidence that is vital to the case but inaccessible before the start of the criminal proceedings.
+
+:§1.2. If either side during civil proceedings becomes inactive, or fails to follow courtroom procedures in a reasonably timely and speedy manner the case shall automatically be found in favor of the other side.
+
+:§1.3. If the presiding judge or justice becomes inactive, a new one must be assigned within forty-eight (48) hours.
+
+§2. The following time limits shall apply within a Criminal Trial –
+:(a) A Criminal Complaint must be filed up to 72 hours after the arrest or suppression of a person, unless otherwise stated by any other law;
+:(b) The Pre-Trial must begin up to 7 days after a Criminal Complaint is filed, if the person the Criminal Complaint pertains to is arrested or otherwise suppressed;
+:(c) After a trial concludes, a verdict must be delivered in 3 days for cases in the Inferior Courts; and,
+:(d) If the defendant becomes inactive, the presiding judge or justice may declare a pre-trial or trial in absentia, respectively.
+:(e) If a state-assigned Public Defender becomes inactive, a new Public Defender must be assigned to the defendant.
+:(f) If the State Prosecutor becomes inactive, the Department of Justice has twenty four (24) hours to assign a new prosecutor. Should they fail to do so, or if this happens twice within the same set of legal proceedings, the judge must dismiss the case without prejudice.
+If time limit (a) is not followed the arrested person is to be released.
+
+§3. A Judge who is unable to preside over a case in a reasonably efficient manner shall recuse, and a Judge may be recused for this purpose on special order of a higher Court.
+
+§4. A pretrial hearing in the inferior courts must start within 7 days of the filing for civil complaints.
+
+===Article 26: Attorneys to exercise rights of client===
+§1. An attorney may exercise all the rights of their client, save for where they have been barred from doing so by their client. An attorney must consult with their client before exercising any such rights, except for where their client is summarily banned prior to the trial.
+
+===Article 27: Costs===
+<ref name="cpaa2">[[Courtroom Procedures Amendment No. 2 Act 2025]]</ref>
+§1. For Criminal Cases, each party shall bear their own costs, but this section shall not bar suits under the tort of [[Civil_Code_2025#Article_XI:_Abuse_of_Process|Abuse of Process]].
+:§1.1. Where the defense has been provided an attorney under the [[OPD Act]], the State shall bear the costs for hiring said attorney.  
+:§1.2. Where the defense has obtained their own legal counsel for a substantial portion of the case, the Judge may order that the State bear the costs for the legal counsel which shall be capped at an amount less than or equal to the per-case pay of a Public Defender under the [[OPD Act]], or where no amount is stated, 150t, if the Judge determines that the self-appointed legal counsel has provided reasonably sufficient and zealous advocacy for their client.
+
+§2. For Civil Cases, the losing party shall bear the costs of both parties.  
+:§2.1. The Judge is to hold a hearing to determine the costs paid, at the conclusion of the suit.  
+:§2.2. The Judge is to determine costs by considering –  
+::(a) Whether the costs arose from unnecessary or frivolous pleadings or filings;  
+::(b) Whether there was misconduct on the part of either party;  
+::(c) The cost of legal representation paid by each party; and,  
+::(d) Such other factors as the Court may deem necessary.
+:§2.3. The court may also choose to make no order as to costs, in which case a party may instead sue under the tort of [[Civil_Code_2025#Article_XI:_Abuse_of_Process|Abuse of Process]].  
+:§2.4. Costs are to be paid in general from the losing party to the winning party. However, in consideration to the factors listed in §2.2, the Judge may lower costs or order costs against the winning party.
+:§2.5. In all cases no cost order shall exceed an amount two times of the salary of the President of SimDemocracy.
+:§2.6. Either party may also waive their right to costs and instead sue under the tort of [[Civil_Code_2025#Article_XI:_Abuse_of_Process|Abuse of Process]].
+
+==Part 7: Interlocutory Appeals==
+
+===Article 29: Procedure for determining questions of law, and for interlocutory appeals===
+''Note by the AC, Article renamed by the [[Judiciary Act 2025]]''
+
+§1. A Pre-Trial or Trial Court hearing any case may at any time prior to the end of a trial, on application of any party or on its own motion–
+:(a) Conduct an ancillary hearing to determine a question of law; or,
+:(b) State a case to the Court of Review on a question of law.
+:§1.1. The Court shall, so far as is possible, state the case through a question, which is answerable in the affirmative or the negative.
+:§1.2. Should the Court decide to conduct an ancillary hearing, it may require each party to make submissions and decide on the question of law, before continuing with the proceeding.<br>
+§2. Any party may file an interlocutory appeal relating to any decision in court, to the Court of Review.
+:§2.1. Such an appeal shall have a suspensory effect on the decision for a period of 48 hours, which the Judge may extend.
+:§2.1.1. To avoid doubt, there is no suspensory effect on the ongoing pre-trial or trial, unless otherwise ordered.
+:§2.1.2. To avoid doubt, nothing in this section affects the operation of [https://qwrky.dev/mediawiki/index.php/Judiciary_Act_2025#Article_4:_Manner_of_initiating_cases_with_the_Court_of_Review Article 4, §7.1] of the [[Judiciary Act 2025]].<ref name="judiciaryact25" />
+
+==References==
+<references />
