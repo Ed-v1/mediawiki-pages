@@ -1,0 +1,130 @@
+[[Category:Legislation]] [[Category:Other Laws]]
+= Government Oversight Act (GOA) =
+<ref name ="SDA/>
+Recognising the need for impartial oversight, transparency, and accountability within SimDemocracy, this Act establishes the SimDem Independent Oversight Authority (SDIOA). The SDIOA is a fully independent agency tasked with investigating allegations of misconduct, corruption, and abuse of power across all branches of government.
+== Article 1: Establishment of the SDIOA ==
+=== Section 1. Creation of the Authority: ===
+
+§1. The SimDem Independent Oversight Authority (SDIOA) is hereby established as an independent agency of SimDemocracy. It consists of the Independent Ombudsman and personnel hired by them to execute the tasks of the Oversight Authority.
+=== Section 2. Mandate: ===
+§1. The SDIOA shall investigate:
+
+:§1.1. Allegations of misconduct or corruption within the executive and legislative branches.
+
+:§1.2. Misuse of public funds, administrative corruption, and abuse of power.
+
+:§1.3. The execution of discretionary laws through the Executive or its agencies.
+
+:§1.4. Any other matters referred to it by the Attorney General or by a joint resolution of the Senate.<ref name = "SDA"/>
+=== Section 3. Reporting: ===
+§1. The SDIOA shall report its findings to the appropriate authorities, including but not limited to:
+
+:§1.1. The Attorney General for potential prosecution.
+
+:§1.2. The Senate or the relevant committee for legislative action.
+
+:§1.3. The judiciary for further legal review.
+
+§2. The SDIOA shall also publish public reports on its findings, except where classified information is involved.
+:§2.1. The SDIOA may request the declassification of any document used or unearthed in their investigation by the President.<ref name ="SDA"/>
+
+== Article 2: Leadership and Governance ==
+=== Section 1. Appointment of the Head: ===
+
+§1. The head of the SDIOA, known as the Chief Ombudsman, shall be nominated by senators and elected through a supermajority vote (two-thirds) of the Senate.
+
+§2. Each senator may put forward one candidate during the nomination period, which will last 24 hours.
+:<ref name="revolve">[https://docs.google.com/document/d/1MIg46H1YcU_MZiS2ckbDYTzPLlH162YWchPKEjQ9DiI/edit?tab=t.0 End the Revolving Door Amendment] passed and signed on 22 September 2025.</ref>§2.1. No senator shall put forward a candidate who is currently holding or has held elected office in the 2 weeks preceding their nomination. Nor shall they be a current executive officer or former executive officer for at least seven days preceding their nomination.
+
+§3. If the Senate fails to appoint an Ombudsman within 2 days of the nomination period closing, the process will move to a committee vote.
+
+§4. Each Senatorial Caucus shall appoint one Senator to the committee, with the Speaker overseeing the selection process to ensure fairness.
+
+§5. The committee shall then select the Ombudsman through consensus.
+
+§6. A Senatorial Caucus is a group of Senators who meet and assemble for purposes of discussing, deliberating, or coordinating their legislative actions, policies, or positions on matters of mutual concern, based on party affiliation.
+
+=== Section 2. Term and Renewal: ===
+
+§1. The Chief Ombudsman shall serve a term of five Senate cycles.
+
+§2. The Ombudsman may seek another term if they submit a formal request to continue serving as Ombudsman at least one Senate cycle prior to the end of their term.
+
+§3. The Senate must confirm the renewal with a supermajority vote (two-thirds) to extend their term for an additional five cycles.
+
+§4. If the Ombudsman does not seek renewal or fails to secure Senate approval for another term, the process to appoint a new Ombudsman shall commence as outlined in Section 1
+
+=== Section 3. Staff and Resources: ===
+
+§1. The SDIOA shall have the authority to hire staff, including investigators, legal experts, and administrative personnel, as needed to fulfill its mandate. The scope of tasks assigned to each shall be determined by the Ombudsman.
+
+§2. The agency’s budget shall be determined by the Ombudsman and protected from reductions intended to undermine its independence. The budget may not be reduced in such a manner that the Ombudsman becomes incapable of fulfilling the SDIOA’s tasks.
+
+§3. The SDIOA may create the necessary channels and roles to ensure its operation.<ref name ="SDA"/>
+
+== Article 3: Jurisdiction and Procedures ==
+=== Section 1. Scope of Jurisdiction: ===
+§1. The SDIOA shall have jurisdiction over:
+
+:§1.1. Members of the executive branch, including agencies under its control.
+
+:§1.2. Members of the legislative branch, including the Senate and its committees.
+
+:§1.3. Other Committees and Officers of the State as established by Law or the Constitution.<ref name ="SDA"/>
+
+§2. The SDIOA shall not investigate the judiciary. Judicial accountability shall remain within the purview of established judicial oversight mechanisms to preserve the separation of powers and the independence of the judiciary.
+
+<ref name="contractor">[https://docs.google.com/document/d/1ptg-3QdEGTSbfgzeOM9kpO0FeIw2mTQI8-gSmY4HNcs/edit?tab=t.0#heading=h.nuo4e021davk SDIOA Jurisdiction Act] passed by the Senate and signed by the President on 25 August 2025.</ref>§3. The SDIOA need not be given access to the internal channels of the private contractors employed by the executive, but the SDIOA shall maintain investigative jurisdiction over them.
+
+=== Section 2. Investigative Powers: ===
+
+§1. The SDIOA shall have the authority to access government channels and documents, regardless of their classification level, to ensure comprehensive investigations. This authority cannot be overridden by executive orders or decisions to classify materials.
+:§1.1. This authority shall be exercised and delegated by the Ombudsman within SDIOA as they wish.
+
+<ref name="search" />§2. The SDIOA may issue a search warrant for documents, records, and testimony relevant to its investigations.
+:§2.1. For a search warrant to have legal repercussions for non-compliance, it must have been signed by a Judge or Justice before being issued.
+:§2.2. The SDIOA must present the search warrant to the Judge or Justice in a channel named #sdioa-judiciary in order to get it signed by them.
+:§2.3. A Judge or Justice may sign the search warrant only if there is probable cause for misconduct or a crime to have been committed.
+
+§3. The SDIOA may issue recommendations for disciplinary or legal action based on its findings.
+
+=== Section 3. Reporting Requirements: ===
+
+§1. The SDIOA shall produce public reports every four weeks summarizing its activities, findings, and recommendations.
+
+§2. The SDIOA shall also produce reports at the conclusions of investigations, public notices at the beginnings of investigations, and may provide updates during them.
+
+§3. Classified information shall be handled in accordance with national security protocols and disclosed only to authorized officials.<ref name ="SDA"/>
+
+== Article 4: Safeguards for Independence ==
+=== Section 1. Funding: ===
+
+§1. The SDIOA’s budget shall be allocated as requested by the Ombudsman to ensure operational independence.
+
+§2. The Senate may not reduce the SDIOA’s funding without a supermajority vote.
+
+=== Section 2. Oversight Panel: ===
+§1. A multipartisan oversight panel composed of representatives from the Senate, executive branch, and judiciary shall review the SDIOA’s performance annually.
+
+§2. The panel shall have no authority to interfere with ongoing investigations, but may recommend procedural improvements. The Panel shall have the full cooperation of the SDIOA to conduct its work.
+
+=== Section 3. Transparency: ===
+
+§1. All non-classified hearings and findings of the SDIOA shall be made publicly available through a dedicated official channel.
+
+§2. Citizens shall have the right to submit complaints to the SDIOA, which must be reviewed impartially. Every report must be answered either through a report or through a notice of procedural closure.
+
+== Article 5: Checks and Balances ==
+=== Section 1. Judicial Review: ===
+
+§1. Any party named in an SDIOA referral may appeal its findings to the judiciary to ensure due process.
+
+§2. In cases of overlapping jurisdiction with other agencies (e.g., the SDBI), the Ombudsman shall determine which agency leads the investigation to avoid duplication of effort.<ref name ="SDA"/>
+=== Section 2. Referral Mechanism: ===
+
+§2. In cases of overlapping jurisdiction with other agencies (e.g., the SDBI), the Ombudsman shall determine which agency leads the investigation to avoid duplication of effort.
+===Section 3. Limitations and Clarifications:===
+<ref name ="SDA"/>§1 The SDIOA shall not conduct undercover operations.
+
+==References==
+<references />
